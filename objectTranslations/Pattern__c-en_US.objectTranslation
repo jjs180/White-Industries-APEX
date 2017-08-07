@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- Core Box Hours --></label>
+        <name>Core_Box_Hours__c</name>
+    </fields><fields>
+        <label><!-- Core Model Hours --></label>
+        <name>Core_Model_Hours__c</name>
+    </fields><fields>
+        <label><!-- Hourly Rate --></label>
+        <name>Hourly_Rate__c</name>
+    </fields><fields>
+        <label><!-- Master Pattern Hours --></label>
+        <name>Master_Pattern_Hours__c</name>
+    </fields><fields>
+        <label><!-- Material Cost --></label>
+        <name>Material_Cost__c</name>
+    </fields><fields>
+        <label><!-- Mount &amp; Runner Hours --></label>
+        <name>Mount_Runner_Hours__c</name>
+    </fields><fields>
+        <label><!-- No of Core Boxes --></label>
+        <name>No_of_Core_Boxes__c</name>
+    </fields><fields>
+        <label><!-- No of Impressions --></label>
+        <name>No_of_Impressions__c</name>
+    </fields><fields>
+        <label><!-- No. of Impressions in C/Box --></label>
+        <name>No_of_Impressions_in_CBox__c</name>
+    </fields><fields>
+        <label><!-- Pattern Material --></label>
+        <name>Pattern_Material__c</name>
+        <picklistValues>
+            <masterLabel>Plastic</masterLabel>
+            <translation><!-- Plastic --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Plastic and Timber</masterLabel>
+            <translation><!-- Plastic and Timber --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Timber</masterLabel>
+            <translation><!-- Timber --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Pattern Mould Hours --></label>
+        <name>Pattern_Mould_Hours__c</name>
+    </fields><fields>
+        <label><!-- Pattern Notes --></label>
+        <name>Pattern_Notes__c</name>
+    </fields><fields>
+        <label><!-- Plastic Pattern Hours --></label>
+        <name>Plastic_Pattern_Hours__c</name>
+    </fields><fields>
+        <label><!-- Product Configuration --></label>
+        <name>Product_Configuration__c</name>
+        <relationshipLabel><!-- Patterns --></relationshipLabel>
+    </fields><fields>
+        <label><!-- Subtotal --></label>
+        <name>Subtotal__c</name>
+    </fields><fields>
+        <label><!-- Total Pattern Cost --></label>
+        <name>Total_Pattern_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Time --></label>
+        <name>Total_Time__c</name>
+    </fields><fields>
+        <label><!-- Type of Pattern --></label>
+        <name>Type_of_Pattern__c</name>
+        <picklistValues>
+            <masterLabel>Loose</masterLabel>
+            <translation><!-- Loose --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mounted</masterLabel>
+            <translation><!-- Mounted --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Type of Plate --></label>
+        <name>Type_of_Plate__c</name>
+    </fields><fields>
+        <label><!-- Type of Sand --></label>
+        <name>Type_of_Sand__c</name>
+        <picklistValues>
+            <masterLabel>Green Sand</masterLabel>
+            <translation><!-- Green Sand --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hard Sand</masterLabel>
+            <translation><!-- Hard Sand --></translation>
+        </picklistValues>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Pattern</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Patterns</value>
+    </caseValues><startsWith>Consonant</startsWith><layouts>
+        <layout>Pattern Layout</layout>
+        <sections>
+            <label><!-- Costing Information --></label>
+            <section>Costing Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts></CustomObjectTranslation>

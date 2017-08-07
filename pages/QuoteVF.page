@@ -1,0 +1,346 @@
+<apex:page standardController="Product_Configuration__c"  standardStylesheets="false" applyBodyTag="false" showHeader="false" sidebar="false">
+
+<head>
+    <meta charset="utf-8" />
+
+    <title>White Industries Quote</title>
+    <meta name="description" content="White Industries Quote" />
+    <meta name="author" content="White Industries Pty Ltd" />
+    
+    <apex:stylesheet value="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css}"/>
+    <apex:stylesheet value="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <apex:stylesheet value="{!URLFOR($Resource.QuotePDF, 'css/style.css')}"/>    
+
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js" />
+    <![endif]-->
+</head>
+<html>
+<body class="template-white-industries-quote">
+
+<header class="top-banner">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <img class="pull-left img-responsive logo-white-industries" src="{!URLFOR($Resource.QuotePDF,'img/logo.png')}" alt="White Industries logo"/>
+                <img class="pull-right img-responsive logo-iso" src="{!URLFOR($Resource.QuotePDF,'img/iso-9001-logo.jpg')}" alt="ISO 9001 Certified"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="top-title">
+                    <h1>Quote for {!Product_Configuration__c.Opportunity__r.Account.Name}</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="container top-details">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <p class="contact-details">
+                <strong>WHITE INDUSTRIES</strong> <br/>
+                P.O. BOX 350, DALBY, QLD 4405 <br/>
+                ABN 21 665 826 470 <br/>
+                Phone <a href="tel:0746725800">(07) 4672 5800</a> Fax <a href="tel:0746725899">(07) 4672 5899</a>
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <p class="quote-info"><span class="quote-label">Quotation Date: </span><span class="quote-info-details"><apex:outputField value="{!Product_Configuration__c.Quote_Date__c}"/></span></p>
+            <br class="float-none"/>
+            <p class="quote-info"><span class="quote-label">Quotation No: </span><span class="quote-info-details"><apex:outputField value="{!Product_Configuration__c.Quote_Number__c}"/></span></p>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid top-shoutout">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <p class="text-center">
+                    We Take On Jobs Others Cannot Deliver <br/>
+                    We work with our customers to find solutions to complex manufacturing problems
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container message-intro">
+    <div class="row">
+        <div class="col-xs-12">
+            <p>
+                To: {!Product_Configuration__c.Opportunity__r.Account.Name} <br/>
+                Attention: {!Product_Configuration__c.Customer_Contact__r.Name}
+            </p>
+            <p>
+                Further to your enquiry regarding the supply of {!Product_Configuration__c.Customer_Contact__r.Name}, generally in accordance with your specifications provided, we take much pleasure in submitting our price to manufacture the following.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="container message-details">
+    <div class="row">
+        <div class="col-xs-12">
+            <table class="table table-bordered">
+                <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Description</th>
+                    <th>Order QTY</th>
+                    <th class="text-right">Price/Ea (AUD)</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td class="text-left">{!Product_Configuration__c.Name}</td>
+                    <td class="text-left">{!Product_Configuration__c.Description__c}</td>
+                    <td><apex:outputField value="{!Product_Configuration__c.Order_Qty__c}"/></td>
+                    <td class="text-right"><apex:outputField value="{!Product_Configuration__c.Price__c}" /></td>
+                </tr>
+                </tbody>
+            </table>
+
+            <table class="table table-bordered">
+                <thead>
+                <tr>
+                    <th>Materials</th>
+                    <th>Comments</th>
+                    <th>Net Wt (kg)</th>
+                    <th>Drawing No.</th>
+                    <th>Revision No.</th>
+                    <th>Finish</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td class="text-left"><apex:outputField value="{!Product_Configuration__c.Product_Category__r.Name}"/></td>
+                    <td class="text-left"><apex:outputField value="{!Product_Configuration__c.Product_Category__r.Description__c}"/></td>
+                    <td><apex:outputField value="{!Product_Configuration__c.Actual_Product_Category_Cost__c}"/></td>
+                    <td><apex:outputField value="{!Product_Configuration__c.Drawing_Number__c}"/></td>
+                    <td><apex:outputField value="{!Product_Configuration__c.Drawing_Rev__c}"/></td>
+                    <td>Unpainted {???}</td>
+                </tr>
+                </tbody>
+            </table>
+
+            <table class="table table-bordered">
+                <thead>
+                <tr>
+                    <th class="no-border-right">Pattern Tooling Price for the Above Item</th>
+                    <th class="text-right no-border-left"><span class="hidden">Price</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <apex:repeat value="{!Product_Configuration__c.Patterns__r}" var="pattern">
+                    <tr>
+                        <td class="text-left"><apex:outputField value="{!pattern.Pattern_Notes__c}"/></td>
+                        <td class="text-right"><apex:outputField value="{!pattern.Total_Pattern_Cost__c}"/></td>
+                    </tr>
+                </apex:repeat>
+                </tbody>
+            </table>
+
+            <table class="table table-bordered">
+                <thead>
+                <tr>
+                    <th class="no-border-right">Certification Level and Description</th>
+                    <th class="text-right no-border-left"><span class="hidden">Price</span></th>
+                </tr>
+                </thead>
+                <tbody>
+                <apex:repeat value="{!Product_Configuration__c.Product_Services__r}" var="service">                
+                    <tr>
+                        <td class="text-left"><apex:outputField value="{!service.Service__r.Name}"/></td>
+                        <td class="text-right"><apex:outputField value="{!service.Service_Price__c}"/></td>
+                    </tr>
+                </apex:repeat>
+                </tbody>
+            </table>
+
+            <p>Subsequent to this first item we offer our pricing for the supply of additional items below.</p>
+
+            <table class="table table-bordered">
+                <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Net Wt (kg)</th>
+                    <th>Material</th>
+                    <th>Minimum Qty</th>
+                    <th class="text-right">Price/Ea (AUD)</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>What</td>
+                    <td>Items</td>
+                    <td>Go</td>
+                    <td>Here???</td>
+                    <td class="text-right">$###.##</td>
+                </tr>
+                </tbody>
+            </table>
+
+            <p>
+                <small>
+                    The above prices are based on an estimated weight. Any variations to these weights over or under 5% will require a revised price.
+                </small>
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="container message-footer">
+    <div class="row">
+        <div class="col-xs-12">
+            <p>
+                Should you have any questions please don't hesitate to contact me.
+            </p>
+            <p>
+                Regards,
+            </p>
+            <p>
+                <span class="text-red text-name"><strong><apex:outputField value="{!Product_Configuration__c.Owner.Name}"/></strong></span><br/>
+                <span class="text-job-title"><strong><apex:outputField value="{!Product_Configuration__c.Owner.Title}"/></strong></span>
+            </p>
+
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid quote-divider">
+</div>
+
+<div class="container quote-terms">
+    <div class="row">
+        <div class="col-xs-12">
+            <p class="quote-term">
+                <span class="term-title">Scope of Our Offer</span>
+                <span class="term-body">Our offer is for the supply of patterns and the manufacture thereafter of trial and production castings.</span>
+            </p>
+            <p class="quote-term">
+                <span class="term-title">Pattern Equipment</span>
+                <span class="term-body">Our offer allows for the manufacture of pattern tooling suitable for use in our foundry. White Industries reserves the right to return customer tooling, at customer expense, if that tooling has not been used in the previous 3 (three) years.</span>
+            </p>
+            <p class="quote-term">
+                <span class="term-title">Time For Practical Completion</span>
+                <span class="term-body">Dispatch ex-works is based from receipt of your purchase order, production drawings, pattern tooling and contract documents within the stated validity period.</span>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <table class="table table-practical-completion">
+                <thead class="hidden">
+                <tr>
+                    <th>Time For Practical Completion</th>
+                    <th>Weeks</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>Pattern Tooling</td>
+                    <td><apex:outputField value="{!Product_Configuration__c.Pattern_Weeks__c}"/> Weeks</td>
+                </tr>
+                <tr>
+                    <td>Trial Casting, Aftercast Inspection and Evaluation</td>
+                    <td><apex:outputField value="{!Product_Configuration__c.Trial_Weeks__c}"/> Weeks</td>
+                </tr>
+                <tr>
+                    <td>Production Casting, Aftercast Inspection and Dispatch (from receipt of your formal approval of trials)</td>
+                    <td><apex:outputField value="{!Product_Configuration__c.Production_Weeks__c}"/> Weeks</td>
+                </tr>
+                <tr class="total">
+                    <td>Total</td>
+                    <td><apex:outputField value="{!Product_Configuration__c.Total_Weeks__c}"/> Weeks</td>
+                </tr>
+                </tbody>
+            </table>
+            <p>
+                <small>NOTE: The above dates are not inclusive of our Christmas maintenance closure of 4 weeks during December and January.</small>
+            </p>
+            <p>
+                <small>Please note: Castings produced for the first time at White Industries, after significant changes, or after an extended period since last manufacture, shall be manufactured in limited quantities on a "Trial" basis so that our customers can assess that the finished items meet all customer requirements. Only after receipt of written customer approval does volume production begin.</small>
+            </p>
+            <p>
+                <small>As such, production order delivery times are dependent on receipt of your formal approval of trials.</small>
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <p class="quote-term">
+                <span class="term-title">Condition of Tendering</span>
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <ol>
+                <li>
+                    <span class="condition-title">Validity Period</span>
+                    <span class="condition-body">This offer shall remain valid for a period of ninety (90) days.</span>
+                </li>
+                <li>
+                    <span class="condition-title">Transport</span>
+                    <span class="condition-body">Our price is F.I.S. (free into store).</span>
+                </li>
+                <li>
+                    <span class="condition-title">Price Basis</span>
+                    <span class="condition-body">We offer fixed prices based on material and labour costs in force at the time of our tender offer, i.e. date of this quote. All prices are reviewed in August yearly.</span>
+                </li>
+                <li>
+                    <span class="condition-title">G.S.T.</span>
+                    <span class="condition-body">All prices quoted are exclusive of G.S.T</span>
+                </li>
+                <li>
+                    <span class="condition-title">Trading Terms</span>
+                    <span class="condition-body"><apex:outputField value="{!Product_Configuration__c.CT_Message__c}" /></span>
+                </li>
+                <li>
+                    <span class="condition-title">Quantity</span>
+                    <span class="condition-body">Delivery of five percent over or under the specified quantity shall constitute fulfilment of order. Orders shall represent Stack, Box or Minimum quantities shown on price schedule.</span>
+                </li>
+                <li>
+                    <span class="condition-title">Acceptance of Offer</span>
+                    <span class="condition-body">Under White Industries Standard Terms &amp; Conditions of Sale, this Quotation is not an offer to sell. No order binding on the Company unless accepted by the Company in writing.</span>
+                </li>
+            </ol>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <ol>
+                <li class="hidden-item">.</li>
+                <li class="hidden-item">.</li>
+                <li class="hidden-item">.</li>
+                <li class="hidden-item">.</li>
+                <li class="hidden-item">.</li>
+                <li class="hidden-item">.</li>
+                <li class="hidden-item">.</li>
+                <li>
+                    <span class="condition-title">Standard Terms &amp; Conditions of Sale</span>
+                    <span class="condition-body">The scope of the work shall be performed in accordance with White Industries Standard Terms &amp; Conditions of Sale.</span>
+                </li>
+                <li>
+                    <span class="condition-title">Casting Tolerances</span>
+                    <span class="condition-body">Tolerances of cast dimensions shall be to the tolerances specified for the applicable moulding methods by AS4738.1. <br/> More restrictive cast tolerances shall be by written agreement only.</span>
+                </li>
+                <li>
+                    <span class="condition-title">Indirect Loss</span>
+                    <span class="condition-body">In no event shall the Company be liable (whether before or after discharge of the contract or otherwise) for any loss or damage to the purchaser as user arising from or caused or contributed to by negligence of the Company, its servants or agents, nor shall the Company be liable for special, incidental, indirect or consequential loss or damage suffered by the purchaser as user as a result of
+a breach by the Company of its obligations or otherwise including but not limited to economic or moral loss, loss of profits or revenue or costs arising from such breach.</span>
+                </li>
+                <li>
+                    <span class="condition-title">Purchase Orders</span>
+                    <span class="condition-body"><strong>All purchase orders must be forwarded to our central processing location in administration. <br/>By email: orders@whiteindustries.com.au <br/>By fax: 07 4672 5899</strong></span>
+                </li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+<apex:includeScript value="{!URLFOR($Resource.QuotePDF, 'js/jquery-3.1.0.min.js')}"/>
+<apex:includeScript value="{!URLFOR($Resource.QuotePDF, 'js/bootstrap.min.js')}"/> 
+</body>    
+   
+</html>    
+</apex:page>

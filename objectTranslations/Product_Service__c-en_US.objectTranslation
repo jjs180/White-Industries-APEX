@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- Product Configuration --></label>
+        <name>Product_Configuration__c</name>
+        <relationshipLabel><!-- Product Services --></relationshipLabel>
+    </fields><fields>
+        <label><!-- Service Price --></label>
+        <name>Service_Price__c</name>
+    </fields><fields>
+        <label><!-- Service --></label>
+        <name>Service__c</name>
+        <relationshipLabel><!-- Product Services --></relationshipLabel>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Product Service</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Product Services</value>
+    </caseValues><startsWith>Consonant</startsWith></CustomObjectTranslation>

@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- Category Code --></label>
+        <name>Category_Code__c</name>
+        <picklistValues>
+            <masterLabel>LABOUR RATE REVIEW</masterLabel>
+            <translation><!-- LABOUR RATE REVIEW --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields><fields>
+        <label><!-- For Manufacture --></label>
+        <name>For_Manufacture__c</name>
+    </fields><fields>
+        <label><!-- Latest Price --></label>
+        <name>Latest_Price__c</name>
+    </fields><fields>
+        <label><!-- Makeup Code --></label>
+        <name>Makeup_Code__c</name>
+        <picklistValues>
+            <masterLabel>CORE SHOOTER - WES CB22</masterLabel>
+            <translation><!-- CORE SHOOTER - WES CB22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FURNACE</masterLabel>
+            <translation><!-- FURNACE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HARDSAND</masterLabel>
+            <translation><!-- HARDSAND --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MOULDING</masterLabel>
+            <translation><!-- MOULDING --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SHELL CORE</masterLabel>
+            <translation><!-- SHELL CORE --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Material Group --></label>
+        <name>Material_Group__c</name>
+        <picklistValues>
+            <masterLabel>AMENITIES</masterLabel>
+            <translation><!-- AMENITIES --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>APPRENTICE TOOLS</masterLabel>
+            <translation><!-- APPRENTICE TOOLS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BEARINGS</masterLabel>
+            <translation><!-- BEARINGS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>COSTINGS</masterLabel>
+            <translation><!-- COSTINGS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DRILLS/MILLS/TAPS</masterLabel>
+            <translation><!-- DRILLS/MILLS/TAPS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FASTNERS</masterLabel>
+            <translation><!-- FASTNERS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FETTLING CONSUMABLE</masterLabel>
+            <translation><!-- FETTLING CONSUMABLE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FOUNDRY CONSUMABLE</masterLabel>
+            <translation><!-- FOUNDRY CONSUMABLE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FURNACE ADDITIVE</masterLabel>
+            <translation><!-- FURNACE ADDITIVE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FURNACE CONSUMABLE</masterLabel>
+            <translation><!-- FURNACE CONSUMABLE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GAS</masterLabel>
+            <translation><!-- GAS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HOLDERS/INSERTS</masterLabel>
+            <translation><!-- HOLDERS/INSERTS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M/C SHOP</masterLabel>
+            <translation><!-- M/C SHOP --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M/C SHOP CONSUMABLE</masterLabel>
+            <translation><!-- M/C SHOP CONSUMABLE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MISC</masterLabel>
+            <translation><!-- MISC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NON STEELS</masterLabel>
+            <translation><!-- NON STEELS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OFFICE SUPPLIES</masterLabel>
+            <translation><!-- OFFICE SUPPLIES --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RAW MATERIAL</masterLabel>
+            <translation><!-- RAW MATERIAL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>RESALE ITEM</masterLabel>
+            <translation><!-- RESALE ITEM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAFETY GEAR</masterLabel>
+            <translation><!-- SAFETY GEAR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SAND ADDITIVE</masterLabel>
+            <translation><!-- SAND ADDITIVE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>STEELS</masterLabel>
+            <translation><!-- STEELS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TIMBER</masterLabel>
+            <translation><!-- TIMBER --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>WELDING</masterLabel>
+            <translation><!-- WELDING --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Material History Index --></label>
+        <name>Material_History_Index__c</name>
+    </fields><fields>
+        <label><!-- Spare5 --></label>
+        <name>Spare5__c</name>
+        <picklistValues>
+            <masterLabel>Core</masterLabel>
+            <translation><!-- Core --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dispatch</masterLabel>
+            <translation><!-- Dispatch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M/C</masterLabel>
+            <translation><!-- M/C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mould</masterLabel>
+            <translation><!-- Mould --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Paint</masterLabel>
+            <translation><!-- Paint --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Synchro Index --></label>
+        <name>Synchro_Index__c</name>
+    </fields><fields>
+        <label><!-- Tax Code --></label>
+        <name>Tax_Code__c</name>
+        <picklistValues>
+            <masterLabel>GST</masterLabel>
+            <translation><!-- GST --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NCF</masterLabel>
+            <translation><!-- NCF --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Tax Percent --></label>
+        <name>Tax_Percent__c</name>
+    </fields><fields>
+        <label><!-- Unit of Measure --></label>
+        <name>Unit_of_Measure__c</name>
+        <picklistValues>
+            <masterLabel>Box</masterLabel>
+            <translation><!-- Box --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Drum</masterLabel>
+            <translation><!-- Drum --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Each</masterLabel>
+            <translation><!-- Each --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Feet</masterLabel>
+            <translation><!-- Feet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Length</masterLabel>
+            <translation><!-- Length --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Litres</masterLabel>
+            <translation><!-- Litres --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Metre</masterLabel>
+            <translation><!-- Metre --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pair</masterLabel>
+            <translation><!-- Pair --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Roll</masterLabel>
+            <translation><!-- Roll --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>SQM</masterLabel>
+            <translation><!-- SQM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Set</masterLabel>
+            <translation><!-- Set --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sheet</masterLabel>
+            <translation><!-- Sheet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tonne</masterLabel>
+            <translation><!-- Tonne --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>kg</masterLabel>
+            <translation><!-- kg --></translation>
+        </picklistValues>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Material</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Materials</value>
+    </caseValues><startsWith>Consonant</startsWith></CustomObjectTranslation>

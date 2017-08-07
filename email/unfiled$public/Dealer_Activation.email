@@ -1,0 +1,8 @@
+Hi {!Dealer__c.}
+
+Below is your login details please check.
+
+User Name : {!Dealer__c.Email_Of_Manager__c}
+Password    : {!Dealer__c.Password__c}
+
+Thanks

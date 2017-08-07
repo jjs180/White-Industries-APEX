@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObject xmlns="http://soap.sforce.com/2006/04/metadata"><actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides><actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides><actionOverrides>
+        <actionName>Clone</actionName>
+        <content>CloneProductConfiguration</content>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Visualforce</type>
+    </actionOverrides><actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides><actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides><actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides><actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides><actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides><actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides><actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides><actionOverrides>
+        <actionName>View</actionName>
+        <content>ProductConfigurationVFPage</content>
+        <skipRecordTypeSelect>false</skipRecordTypeSelect>
+        <type>Visualforce</type>
+    </actionOverrides><fields>
+        <fullName>Actual_Product_Category_Cost__c</fullName>
+        <externalId>false</externalId>
+        <label>Actual Product Category Cost</label>
+        <precision>7</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>Admin_Charge__c</fullName>
+        <externalId>false</externalId>
+        <label>Admin Charge</label>
+        <precision>8</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>Annual_Qty__c</fullName>
+        <externalId>false</externalId>
+        <label>Annual Qty</label>
+        <precision>6</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Annual_Total__c</fullName>
+        <externalId>false</externalId>
+        <formula>Price__c *  Annual_Qty__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>Selling Price x Annual Qty</inlineHelpText>
+        <label>Annual Total</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>CT_Message__c</fullName>
+        <externalId>false</externalId>
+        <formula>CASE(Credit_Terms__c, 
+	'30D', 
+	"Credit will be extended on strictly 30 days terms", 
+	'30D_CA', 
+	"Credit will be extended on strictly 30 day terms subject to formal credit application approval, (credit application attached).",
+	'62D',
+	"Credit will be extended to 62 days from end of month.",
+	'COD_50',
+	"It is normal company policy for all new customers to be placed on COD terms. However new Patterns if required are to be paid as follows: 50% on placement of order and balance COD with casting shipment.",
+	'COD',
+	"It is normal company policy for all new customers to be placed on COD terms. Credit may be extended for repeat customers (say after 12 months and/or a number of orders) on strictly 30 days    terms, subject to normal credit approval.",
+	'50_UF',
+	"50% of order value to be paid on placement of order, balance to be paid prior to despatch of goods.",
+	'100_UF',
+	"Payment is required on placement of order.",
+	''
+	)</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>CT Message</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Christmas_Delivery_Period__c</fullName>
+        <externalId>false</externalId>
+        <formula>IF (
+(DATE( Year(Opportunity__r.CloseDate), 12, 1) - Opportunity__r.CloseDate)/7&lt;=Total_Weeks__c 
+||
+Month(Opportunity__r.CloseDate)= 12
+||
+Month(Opportunity__r.CloseDate)= 1,
+true, false)</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>If the Opportunity Close date is in January or December, or if the close date + total production time is less than the number of weeks to December, the Christmas Delivery clause will be added.</inlineHelpText>
+        <label>Christmas Delivery</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields><fields>
+        <fullName>Contact_Email__c</fullName>
+        <externalId>false</externalId>
+        <formula>Customer_Contact__r.Email</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Contact Email</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Contact_Phone__c</fullName>
+        <externalId>false</externalId>
+        <formula>Customer_Contact__r.Phone</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Contact Phone</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Cost_Per_UOM__c</fullName>
+        <externalId>false</externalId>
+        <label>Cost Per UOM</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Each</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields><fields>
+        <fullName>Cost_Per__c</fullName>
+        <externalId>false</externalId>
+        <label>Cost Per</label>
+        <precision>8</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Cost__c</fullName>
+        <externalId>false</externalId>
+        <label>Cost</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>Credit_Terms__c</fullName>
+        <externalId>false</externalId>
+        <globalPicklist>Credit_Terms_Values</globalPicklist>
+        <label>Credit Terms</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields><fields>
+        <fullName>Customer_Contact__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Customer Contact</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipName>Product_Configurations</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields><fields>
+        <fullName>Description__c</fullName>
+        <externalId>false</externalId>
+        <label>Description</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields><fields>
+        <fullName>Drawing_Number__c</fullName>
+        <externalId>false</externalId>
+        <label>Drawing Number</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Drawing_Rev__c</fullName>
+        <externalId>false</externalId>
+        <label>Drawing Rev</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Factory_Price__c</fullName>
+        <externalId>false</externalId>
+        <formula>Subtotal__c + Scrap_Cost__c + Admin_Charge__c/Order_Qty__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>Subtotal + Scrap Cost + Admin Cost / Order Qty</inlineHelpText>
+        <label>Factory Price</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>Gross_Weight__c</fullName>
+        <externalId>false</externalId>
+        <formula>Net_Wt__c * No_Per_Box__c / Yield__c</formula>
+        <label>Gross Weight (KG)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Margin__c</fullName>
+        <defaultValue>0.00</defaultValue>
+        <externalId>false</externalId>
+        <label>Margin</label>
+        <precision>6</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields><fields>
+        <fullName>Mark_as_Template__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Mark as Template</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields><fields>
+        <fullName>Net_Wt__c</fullName>
+        <externalId>false</externalId>
+        <label>Net Weight (KG)</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>No_Per_Box__c</fullName>
+        <externalId>false</externalId>
+        <label>Number Per Box</label>
+        <precision>2</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Opportunity__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Opportunity</label>
+        <referenceTo>Opportunity</referenceTo>
+        <relationshipName>Product_Configurations</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields><fields>
+        <fullName>Order_Qty__c</fullName>
+        <externalId>false</externalId>
+        <label>Order Qty</label>
+        <precision>6</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Order_Total__c</fullName>
+        <externalId>false</externalId>
+        <formula>Price__c *  Order_Qty__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <inlineHelpText>Selling Price x Order Qty</inlineHelpText>
+        <label>Order Total</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>Pat_Equip_Message__c</fullName>
+        <externalId>false</externalId>
+        <formula>CASE(Pattern_Equipment__c, 
+'New', 
+"Our offer allows for the manufacture of pattern tooling suitable for use in our foundry. White Industries reserves the right to return customer tooling, at customer expense, if that tooling has not been used in the previous 3 (three) years.", 
+'Client', 
+"We reserve the right following receipt of your patterns to either accept same in the as supplied condition or tender our price to rework / repair / alter the pattern to render it suitable for our processes.", 
+'Held',
+"Pattern tooling is currently held at White Industries works Dalby. White Industries reserves the right to return customer tooling, at customer expense, if that tooling has not been used in the previous 3 (three) years.",
+'' 
+)</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Pat_Equip_Message</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Pattern_Equipment__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Selects the text in the Pattern Equipment section of the terms and conditions on the quote.</inlineHelpText>
+        <label>Pattern Equipment</label>
+        <picklist>
+            <picklistValues>
+                <fullName>New</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Client</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Held</fullName>
+                <default>false</default>
+            </picklistValues>
+            <restrictedPicklist>true</restrictedPicklist>
+            <sorted>false</sorted>
+        </picklist>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields><fields>
+        <fullName>Pattern_Weeks__c</fullName>
+        <externalId>false</externalId>
+        <label>Pattern Weeks</label>
+        <precision>2</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Position__c</fullName>
+        <externalId>false</externalId>
+        <formula>Customer_Contact__r.Title</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Position</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Price_Per_UOM__c</fullName>
+        <externalId>false</externalId>
+        <label>Price Per UOM</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Each</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields><fields>
+        <fullName>Price_Per__c</fullName>
+        <externalId>false</externalId>
+        <label>Price Per</label>
+        <precision>8</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Price__c</fullName>
+        <externalId>false</externalId>
+        <label>Selling Price</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>Product_Category_Cost__c</fullName>
+        <externalId>false</externalId>
+        <formula>Product_Category__r.Cost__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Product Category Cost</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>Product_Category__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Product Category</label>
+        <referenceTo>Product_Category__c</referenceTo>
+        <relationshipName>Product_Configurations</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields><fields>
+        <fullName>Production_Weeks__c</fullName>
+        <externalId>false</externalId>
+        <label>Production Weeks</label>
+        <precision>2</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Quote_Date__c</fullName>
+        <defaultValue>today()</defaultValue>
+        <externalId>false</externalId>
+        <label>Quote Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields><fields>
+        <fullName>Quote_Number__c</fullName>
+        <displayFormat>Q{00000}</displayFormat>
+        <externalId>false</externalId>
+        <label>Quote Number</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields><fields>
+        <fullName>Reject_Rate__c</fullName>
+        <defaultValue>0.02</defaultValue>
+        <externalId>false</externalId>
+        <label>Reject Rate</label>
+        <precision>5</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields><fields>
+        <fullName>Scope_Message__c</fullName>
+        <externalId>false</externalId>
+        <formula>CASE(Scope_Of_Offer__c, 
+'PTP', 
+"Our offer is for the supply of patterns and the manufacture thereafter of trial and production castings.", 
+'PTPM', 
+"Our offer is for the supply of patterns and the manufacture thereafter of trial and production castings inclusive of CNC machining.", 
+'CM', 
+"Our offer is for the supply of castings, inclusive of CNC machining.", 
+'M', 
+"Our offer is for the supply of CNC machining.", 
+'C', 
+"Our offer is for the supply of castings only.", 
+'Fab', 
+"Our offer is for the supply of fabricated items only.", 
+'' 
+)</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Scope_Message</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Scope_Of_Offer__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>This option sets the message in the Scope of Offer section of the terms and conditions on the quote.</inlineHelpText>
+        <label>Scope Of Offer</label>
+        <picklist>
+            <picklistValues>
+                <fullName>PTP</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>PTPM</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>CM</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>M</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>C</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Fab</fullName>
+                <default>false</default>
+            </picklistValues>
+            <restrictedPicklist>true</restrictedPicklist>
+            <sorted>false</sorted>
+        </picklist>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields><fields>
+        <fullName>Scrap_Cost__c</fullName>
+        <externalId>false</externalId>
+        <formula>Reject_Rate__c * Subtotal__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Scrap Cost</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>Synchro_Index__c</fullName>
+        <externalId>true</externalId>
+        <label>Synchro Index</label>
+        <precision>8</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Total_Machine_Fixture_Cost__c</fullName>
+        <externalId>false</externalId>
+        <label>Total Machine Fixture Cost</label>
+        <summarizedField>Machine_Fixture__c.Total_Machine_Fixture_Cost__c</summarizedField>
+        <summaryForeignKey>Machine_Fixture__c.Product_Configuration__c</summaryForeignKey>
+        <summaryOperation>sum</summaryOperation>
+        <trackTrending>false</trackTrending>
+        <type>Summary</type>
+    </fields><fields>
+        <fullName>Total_Materials_Cost__c</fullName>
+        <externalId>false</externalId>
+        <label>Total Materials Cost</label>
+        <summarizedField>Product_Material__c.Total_Cost_Mirror__c</summarizedField>
+        <summaryForeignKey>Product_Material__c.Product_Configuration__c</summaryForeignKey>
+        <summaryOperation>sum</summaryOperation>
+        <trackTrending>false</trackTrending>
+        <type>Summary</type>
+    </fields><fields>
+        <fullName>Total_Pattern_Cost__c</fullName>
+        <externalId>false</externalId>
+        <label>Total Pattern Cost</label>
+        <summarizedField>Pattern__c.Total_Pattern_Cost__c</summarizedField>
+        <summaryForeignKey>Pattern__c.Product_Configuration__c</summaryForeignKey>
+        <summaryOperation>sum</summaryOperation>
+        <trackTrending>false</trackTrending>
+        <type>Summary</type>
+    </fields><fields>
+        <fullName>Total_Process_Cost__c</fullName>
+        <externalId>false</externalId>
+        <label>Total Process Cost</label>
+        <summarizedField>Product_Process__c.Total_Cost__c</summarizedField>
+        <summaryForeignKey>Product_Process__c.Product_Configuration__c</summaryForeignKey>
+        <summaryOperation>sum</summaryOperation>
+        <trackTrending>false</trackTrending>
+        <type>Summary</type>
+    </fields><fields>
+        <fullName>Total_Product_Category_Cost__c</fullName>
+        <externalId>false</externalId>
+        <formula>Actual_Product_Category_Cost__c *  Net_Wt__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Total Product Category Cost</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>4</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><fields>
+        <fullName>Total_Service_Cost__c</fullName>
+        <externalId>false</externalId>
+        <label>Total Service Cost</label>
+        <summarizedField>Product_Service__c.Service_Price__c</summarizedField>
+        <summaryForeignKey>Product_Service__c.Product_Configuration__c</summaryForeignKey>
+        <summaryOperation>sum</summaryOperation>
+        <trackTrending>false</trackTrending>
+        <type>Summary</type>
+    </fields><fields>
+        <fullName>Total_Weeks__c</fullName>
+        <externalId>false</externalId>
+        <formula>Pattern_Weeks__c + Trial_Weeks__c + Production_Weeks__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Total Weeks</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Transport_Option__c</fullName>
+        <externalId>false</externalId>
+        <globalPicklist>Transport_Options</globalPicklist>
+        <label>Transport</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields><fields>
+        <fullName>Trial_Weeks__c</fullName>
+        <externalId>false</externalId>
+        <label>Trial Weeks</label>
+        <precision>2</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields><fields>
+        <fullName>Yield__c</fullName>
+        <externalId>false</externalId>
+        <label>Yield</label>
+        <precision>5</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields><fields>
+        <fullName>Subtotal__c</fullName>
+        <externalId>false</externalId>
+        <formula>Total_Materials_Cost__c + Total_Process_Cost__c +  Total_Product_Category_Cost__c</formula>
+        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+        <label>Subtotal</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields><allowInChatterGroups>false</allowInChatterGroups><compactLayoutAssignment>SYSTEM</compactLayoutAssignment><deploymentStatus>Deployed</deploymentStatus><enableActivities>false</enableActivities><enableBulkApi>true</enableBulkApi><enableFeeds>false</enableFeeds><enableHistory>false</enableHistory><enableReports>true</enableReports><enableSearch>true</enableSearch><enableSharing>true</enableSharing><enableStreamingApi>true</enableStreamingApi><label>WI Quote</label><nameField>
+        <label>Quote Name</label>
+        <type>Text</type>
+    </nameField><pluralLabel>WI Quotes</pluralLabel><searchLayouts /><sharingModel>ReadWrite</sharingModel><listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews><validationRules>
+        <fullName>Cannot_Change_Margin_and_Sell_Price</fullName>
+        <active>true</active>
+        <description>Cannot change both Margin and Selling Price in the same operation</description>
+        <errorConditionFormula>AND(ISCHANGED( Margin__c ), ISCHANGED( Price__c ))</errorConditionFormula>
+        <errorDisplayField>Price__c</errorDisplayField>
+        <errorMessage>You cannot change both the Margin and Selling Price in one operation.  Change one or the other and the system will automatically calculate the other field value.</errorMessage>
+    </validationRules><webLinks>
+        <fullName>Create_a_Quote</fullName>
+        <availability>online</availability>
+        <displayType>massActionButton</displayType>
+        <encodingKey>UTF-8</encodingKey>
+        <linkType>url</linkType>
+        <masterLabel>Create a Quote</masterLabel>
+        <openType>replace</openType>
+        <protected>false</protected>
+        <requireRowSelection>false</requireRowSelection>
+        <url>/a0A/e?CF00NN0000002B1Ys={!Opportunity.Name}&amp;CF00NN0000002B1Ys_lkid=006N000000ABD3X&amp;retURL=%2F006N000000ABD3X&amp;00NN0000002LmyJ={!Account.Transport_Option__c}&amp;00NN0000002Lmww={!Account.Credit_Terms__c}{!Product_Configuration__c.Opportunity__c}</url>
+    </webLinks><webLinks>
+        <fullName>Quote_PDF</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <hasMenubar>false</hasMenubar>
+        <hasScrollbars>true</hasScrollbars>
+        <hasToolbar>false</hasToolbar>
+        <height>600</height>
+        <isResizable>true</isResizable>
+        <linkType>page</linkType>
+        <masterLabel>Quote PDF</masterLabel>
+        <openType>newWindow</openType>
+        <page>QuotePDF</page>
+        <position>none</position>
+        <protected>false</protected>
+        <showsLocation>false</showsLocation>
+        <showsStatus>false</showsStatus>
+    </webLinks><webLinks>
+        <fullName>Sync_With_Opportunity</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <height>600</height>
+        <linkType>page</linkType>
+        <masterLabel>Sync With Opportunity</masterLabel>
+        <openType>sidebar</openType>
+        <page>SyncOpportunity</page>
+        <protected>false</protected>
+    </webLinks></CustomObject>

@@ -1,0 +1,748 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html style="" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <!-- NAME: 1 COLUMN - BANDED -->
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>QME Invitation</title>
+    <style type="text/css">
+      body,#bodyTable,#bodyCell{
+      height:100% !important;
+      margin:0;
+      padding:0;
+      width:100% !important;
+      }
+      table{
+      border-collapse:collapse;
+      }
+      img,a img{
+      border:0;
+      outline:none;
+      text-decoration:none;
+      }
+      h1,h2,h3,h4,h5,h6{
+      margin:0;
+      padding:0;
+      }
+      p{
+      margin:1em 0;
+      padding:0;
+      }
+      a{
+	word-wrap: break-word;
+	color: red;
+      }
+      .ReadMsgBody{
+      width:100%;
+      }
+      .ExternalClass{
+      width:100%;
+      }
+      .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
+      line-height:100%;
+      }
+      table,td{
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+      }
+      #outlook a{
+      padding:0;
+      }
+      img{
+      -ms-interpolation-mode:bicubic;
+      }
+      body,table,td,p,a,li,blockquote{
+      -ms-text-size-adjust:100%;
+      -webkit-text-size-adjust:100%;
+      }
+      #bodyCell{
+      padding:0;
+      }
+      .mcnImage{
+      vertical-align:bottom;
+      }
+      .mcnTextContent img{
+      height:auto !important;
+      }
+      /*
+      @tab Page
+      @section background style
+      @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+      */
+      body,#bodyTable{
+      /*@editable*/background-color:#f2f2f2;
+      }
+      /*
+      @tab Page
+      @section background style
+      @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+      */
+      #bodyCell{
+      /*@editable*/border-top:0;
+      }
+      /*
+      @tab Page
+      @section heading 1
+      @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+      @style heading 1
+      */
+      h1{
+      /*@editable*/color:#000000 !important;
+      display:block;
+      /*@editable*/font-family:Helvetica;
+      /*@editable*/font-size:30px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:100%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Page
+      @section heading 2
+      @tip Set the styling for all second-level headings in your emails.
+      @style heading 2
+      */
+      h2{
+      /*@editable*/color:#404040 !important;
+      display:block;
+      /*@editable*/font-family:Helvetica;
+      /*@editable*/font-size:26px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:-.75px;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Page
+      @section heading 3
+      @tip Set the styling for all third-level headings in your emails.
+      @style heading 3
+      */
+      h3{
+      /*@editable*/color:#b9b9b9 !important;
+      display:block;
+      /*@editable*/font-family:Helvetica;
+      /*@editable*/font-size:18px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Page
+      @section heading 4
+      @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+      @style heading 4
+      */
+      h4{
+      /*@editable*/color:#808080 !important;
+      display:block;
+      /*@editable*/font-family:Helvetica;
+      /*@editable*/font-size:16px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Preheader
+      @section preheader style
+      @tip Set the background color and borders for your email's preheader area.
+      */
+      #templatePreheader{
+      /*@editable*/background-color:#404347;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+      }
+      /*
+      @tab Preheader
+      @section preheader text
+      @tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+      */
+      .preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent p{
+      /*@editable*/color:#ffffff;
+      /*@editable*/font-family:Helvetica;
+      /*@editable*/font-size:11px;
+      /*@editable*/line-height:125%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Preheader
+      @section preheader link
+      @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+      */
+      .preheaderContainer .mcnTextContent a{
+      /*@editable*/color:#eeeeee;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      /*
+      @tab Header
+      @section header style
+      @tip Set the background color and borders for your email's header area.
+      */
+      #templateHeader{
+      /*@editable*/background-color:#ffffff;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:3px solid #f2f2f2;
+      }
+      /*
+      @tab Header
+      @section header text
+      @tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+      */
+      .headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+      /*@editable*/color:#606060;
+      /*@editable*/font-family:Helvetica;
+      /*@editable*/font-size:15px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Header
+      @section header link
+      @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+      */
+      .headerContainer .mcnTextContent a{
+      /*@editable*/color:#6DC6DD;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      /*
+      @tab Body
+      @section body style
+      @tip Set the background color and borders for your email's body area.
+      */
+      #templateBody{
+      /*@editable*/background-color:#FFFFFF;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+      }
+      /*
+      @tab Body
+      @section body text
+      @tip Set the styling for your email's body text. Choose a size and color that is easy to read.
+      */
+      .bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+      /*@editable*/color:#444444;
+      /*@editable*/font-family:Helvetica;
+      /*@editable*/font-size:14px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Body
+      @section body link
+      @tip Set the styling for your email's body links. Choose a color that helps them stand out from your text.
+      */
+      .bodyContainer .mcnTextContent a{
+      /*@editable*/color:#d93b23;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      /*
+      @tab Footer
+      @section footer style
+      @tip Set the background color and borders for your email's footer area.
+      */
+      #templateFooter{
+      /*@editable*/background-color:#404347;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+      }
+      /*
+      @tab Footer
+      @section footer text
+      @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+      */
+      .footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+      /*@editable*/color:#606060;
+      /*@editable*/font-family:Helvetica;
+      /*@editable*/font-size:11px;
+      /*@editable*/line-height:125%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Footer
+      @section footer link
+      @tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+      */
+      .footerContainer .mcnTextContent a{
+      /*@editable*/color:#606060;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      @media only screen and (max-width: 480px){
+      body,table,td,p,a,li,blockquote{
+      -webkit-text-size-adjust:none !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      body{
+      width:100% !important;
+      min-width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnTextContentContainer]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      .mcnBoxedTextContentContainer{
+      max-width:100% !important;
+      min-width:100% !important;
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcpreview-image-uploader]{
+      width:100% !important;
+      display:none !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      img[class=mcnImage]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnImageGroupContentContainer]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageGroupContent]{
+      padding:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageGroupBlockInner]{
+      padding-bottom:0 !important;
+      padding-top:0 !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      tbody[class=mcnImageGroupBlockOuter]{
+      padding-bottom:9px !important;
+      padding-top:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnCaptionTopContent],table[class=mcnCaptionBottomContent]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnCaptionLeftTextContentContainer],table[class=mcnCaptionRightTextContentContainer],table[class=mcnCaptionLeftImageContentContainer],table[class=mcnCaptionRightImageContentContainer],table[class=mcnImageCardLeftTextContentContainer],table[class=mcnImageCardRightTextContentContainer]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardLeftImageContent],td[class=mcnImageCardRightImageContent]{
+      padding-right:18px !important;
+      padding-left:18px !important;
+      padding-bottom:0 !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardBottomImageContent]{
+      padding-bottom:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardTopImageContent]{
+      padding-top:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardLeftImageContent],td[class=mcnImageCardRightImageContent]{
+      padding-right:18px !important;
+      padding-left:18px !important;
+      padding-bottom:0 !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardBottomImageContent]{
+      padding-bottom:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardTopImageContent]{
+      padding-top:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnCaptionLeftContentOuter] td[class=mcnTextContent],table[class=mcnCaptionRightContentOuter] td[class=mcnTextContent]{
+      padding-top:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnCaptionBlockInner] table[class=mcnCaptionTopContent]:last-child td[class=mcnTextContent]{
+      padding-top:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnBoxedTextContentColumn]{
+      padding-left:18px !important;
+      padding-right:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnTextContent]{
+      padding-right:18px !important;
+      padding-left:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section template width
+      @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.
+      */
+      table[class=templateContainer]{
+      /*@tab Mobile Styles
+      @section template width
+      @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.*/max-width:600px !important;
+      /*@editable*/width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 1
+      @tip Make the first-level headings larger in size for better readability on small screens.
+      */
+      h1{
+      /*@editable*/font-size:24px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 2
+      @tip Make the second-level headings larger in size for better readability on small screens.
+      */
+      h2{
+      /*@editable*/font-size:20px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 3
+      @tip Make the third-level headings larger in size for better readability on small screens.
+      */
+      h3{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 4
+      @tip Make the fourth-level headings larger in size for better readability on small screens.
+      */
+      h4{
+      /*@editable*/font-size:16px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Boxed Text
+      @tip Make the boxed text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+      */
+      table[class=mcnBoxedTextContentContainer] td[class=mcnTextContent],td[class=mcnBoxedTextContentContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Preheader Visibility
+      @tip Set the visibility of the email's preheader on small screens. You can hide it to save space.
+      */
+      table[id=templatePreheader]{
+      /*@editable*/display:block !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Preheader Text
+      @tip Make the preheader text larger in size for better readability on small screens.
+      */
+      td[class=preheaderContainer] td[class=mcnTextContent],td[class=preheaderContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:14px !important;
+      /*@editable*/line-height:115% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Header Text
+      @tip Make the header text larger in size for better readability on small screens.
+      */
+      td[class=headerContainer] td[class=mcnTextContent],td[class=headerContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Body Text
+      @tip Make the body text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+      */
+      td[class=bodyContainer] td[class=mcnTextContent],td[class=bodyContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section footer text
+      @tip Make the body content text larger in size for better readability on small screens.
+      */
+      td[class=footerContainer] td[class=mcnTextContent],td[class=footerContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:14px !important;
+      /*@editable*/line-height:115% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=footerContainer] a[class=utilityLink]{
+      display:block !important;
+      }
+      
+      }    
+    </style>
+  </head>
+  <body leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+    <center>
+      <p>&nbsp;
+        </p>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" id="bodyTable" width="100%">
+        <tbody>
+          <tr>
+            <td align="center" id="bodyCell" valign="top">
+              <!-- BEGIN TEMPLATE // -->
+              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN PREHEADER // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="preheaderContainer" style="padding-top:9px;" valign="top">
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" width="366">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-left:18px; padding-bottom:9px; padding-right:0;" valign="top">
+                                                      July 2016</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                              <table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" width="197">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right:18px; padding-bottom:9px; padding-left:18px;" valign="top">
+                                                      <div style="text-align: right;">
+                                                        Call Us: 1300 825 980</div>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- // END PREHEADER --></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN HEADER // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templateHeader" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="headerContainer" style="padding-top:10px; padding-bottom:10px;" valign="top">
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnImageBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnImageBlockOuter">
+                                          <tr>
+                                            <td class="mcnImageBlockInner" style="padding:0px" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnImageContent" style="padding-right: 0px; padding-left: 0px; padding-top: 0; padding-bottom: 0; text-align:center;" valign="top">
+                                                      <img align="middle" alt="" class="mcnImage" src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/09045c9c8387400266ce9358484b3845/image/jpeg" style="max-width:600px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" width="600" /></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnCodeBlock" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <div style="margin-top:10px;">
+                                                <a href="http://whiteindustries.com.au/qld.htm" style="line-height: 20.8px;" target="_blank"><img align="right" alt="Request A Quote Link" height="30" src="https://gallery.mailchimp.com/dc30be044ef6259e67321678a/images/c63bf951-f8f1-4590-8a02-b22bde23016e.gif" style="opacity: 0.9; width: 145px; height: 30px; margin: 0px;" width="145" /></a><a href="http://whiteindustries.com.au/contact.htm" target="_blank"><img align="right" alt="Contact Us Link" height="30" src="https://gallery.mailchimp.com/dc30be044ef6259e67321678a/images/8540ef5a-13a4-4a3f-a7a3-29ebd8215f14.gif" style="width: 120px; height: 30px; margin: 0px;" width="120" /></a></div>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnCodeBlock" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="middle">
+                                              <h3 style="display:block; padding:5px 10px 5px 10px;border-bottom:2px solid #d93b22; color:#ffffff !important; Background:#404347;">
+                                                Invitation to QME</h3>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <p>
+                                                        Dear {!Contact.FirstName},</p>
+                                                      <p>
+                                                        The Queensland Mining &amp; Engineering exhibition is on again in Mackay from the&nbsp;<strong>26th to 28th of July,</strong> which is now<strong>&nbsp;</strong>just two weeks away. We would love to take the opportunity to catch up face to face if you are planning on attending the show. Make sure you wander by the stand or send me an email if you would like to lock-in a specific time.&nbsp;</p>
+                                                      <p>
+                                                        We will be located on <strong>stand number #A376</strong> <a href="https://www.queenslandminingexpo.com.au/RXAU/RXAU_QME_v2/documents/Floor%20Plan/QME16_P150_040716.pdf?v=636032775151574016">click here for a floor plan</a>.&nbsp;</p>
+                                                      <p>
+                                                        <img align="" alt="" width="600" src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/d0f26aa0409be73ff432c2f6a2bd9749/image/jpeg" style="width: 600px; border-style: solid; border-color: rgb(96, 96, 96); margin: 0px; display: inline;" /></p>
+                                                      <p>
+                                                        There are&nbsp;numerous events over the three days which will include seminars with leading industry experts, networking social functions that will have you rubbing shoulders with industry peers as well as cutting-edge education seminars that will provide essential information for the mining industry.</p>
+                                                      <p>
+                                                        For further information on the show, you can find the QME offical website here:&nbsp;<a href="https://www.queenslandminingexpo.com.au">https://www.queenslandminingexpo.com.au</a>.</p>
+                                                      <p>
+                                                        We hope to see you there!</p>
+                                                      <p>
+                                                        Kind regards,</p>
+                                                      <p>
+                                                        <strong>Craig White</strong><br />
+                                                        Sales Director<br />
+                                                        <img src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/e97ede44a2aa4fafcbb66e3a6df75f2a/image/png" /><br />
+                                                        <strong>M:</strong> 0428 623 233<br />
+                                                        <strong>P:</strong>&nbsp;07  4672 5813<br />
+                                                        <strong>E: </strong><a href="mailto:craig.white@whiteindustries.com.au">craig.white@whiteindustries.com.au</a></p>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- // END HEADER --></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN FOOTER // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templateFooter" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="footerContainer" style="padding-top:10px; padding-bottom:10px;" valign="top">
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding: 9px 18px;color: #AAAAAA;" valign="top">
+                                                      <div style="text-align: center;">
+                                                        <em>Copyright © 2016 White Industries, All rights reserved.</em></div>
+                                                      <div style="text-align: center;">
+                                                        As a valued client of White Industries, you're on our mailing list.<br />
+                                                        <br />
+                                                        <strong>Our mailing address is:</strong><br />
+                                                        PO Box 350<br />
+                                                        Dalby QLD 4405<br />
+                                                        <br />
+                                                        <strong>Contact Us:</strong><br />
+                                                        Phone: 1300 825 980<br />
+                                                        Email: <a href="mailto:info@whiteindustries.com.au" target="_blank">info@whiteindustries.com.au</a></div>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- // END FOOTER --></td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- // END TEMPLATE --></td>
+          </tr>
+        </tbody>
+      </table>
+    </center>
+    <p>&nbsp;
+      </p>
+  </body>
+</html>

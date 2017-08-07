@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>White_Industries_Letterhead</letterhead>
+    <name>RFQ Template</name>
+    <style>freeForm</style>
+    <subject>[White Industries] RFQ - {!Opportunity.Account}</subject>
+    <textOnly>ESTIMATING CHECKLIST
+
+Date: {!Opportunity.Today__c}
+
+Salesperson: {!Opportunity.OwnerFullName}
+
+RFQ Required By: {!Opportunity.RFQ_Required_By__c}
+
+Company Name
+
+{!Account.Name}
+
+Phone
+
+{!Account.Phone}
+
+Fax
+
+{!Account.Fax}
+
+Billing Address
+
+{!Account.BillingStreet}
+
+{!Account.BillingCity}
+
+{!Account.BillingState}, {!Account.BillingPostalCode}
+
+Delivery Address
+
+{!Account.ShippingStreet}
+
+{!Account.ShippingCity}
+
+{!Account.ShippingState}, {!Account.ShippingPostalCode}
+
+Customer Contact
+
+{!Contact.FirstName} {!Contact.LastName}
+
+Position
+
+{!Contact.Title}
+
+Phone
+
+{!Contact.Phone}
+
+Fax
+
+{!Contact.Fax}
+
+Mobile
+
+{!Contact.MobilePhone}
+
+Email Address
+
+{!Contact.Email}
+
+Size of the Company
+
+{!Account.NumberOfEmployees}
+
+How long they have been in Business
+
+{!Opportunity.How_Long_in_Busines__c}
+
+How Do they know about us?
+
+{!Lead.LeadSource}
+
+Potential to lead to more work?
+
+{!Opportunity.Potential_to_Lead_to_work_more__c}
+
+Other
+
+{!Opportunity.Other__c}
+
+Product Details
+
+Name (drawing Number)
+
+{!Opportunity.Product_Name__c}
+
+Description
+
+{!Opportunity.Product_Description__c}
+
+Drawing Available
+
+{!Opportunity.Drawing_Available__c}
+
+Pattern Available
+
+{!Opportunity.Patter_Available__c}
+
+Machine tooling available?
+
+{!Opportunity.Machine_tooling_available__c}
+
+Order Quantity
+
+{!Opportunity.Order_Quantity__c}
+
+Annual Quantity
+
+{!Opportunity.Annual_Quantity__c}
+
+Metal/Material?
+
+{!Opportunity.Metal_Material__c}
+
+Cast Net Weight
+
+{!Opportunity.Cast_Net_Weight__c}
+
+Do they have any problem with the design/part?
+
+{!Opportunity.Do_they_have_any_problems_with_the_desig__c}
+
+Is it currently getting made?
+
+{!Opportunity.Is_it_currently_getting_made__c}
+
+If so by whom
+
+{!Opportunity.If_so_by_whom__c}
+
+Current Price? (if applicable)
+
+{!Opportunity.Current_price_if_applicable__c}
+
+Ball Park/Gut feel Price?
+
+{!Opportunity.Ball_Park_Gut_feel_Price__c}
+
+Order value/ Annual Value
+
+{!Opportunity.Order_Value_Annual_Value__c}
+
+Machining Required
+
+{!Opportunity.Machining_Required__c}
+
+Painted
+
+{!Opportunity.Painted__c}
+
+Feight
+
+{!Opportunity.Feight__c}
+
+Testing/ Certification
+
+{!Opportunity.Testing_Certification__c}
+
+What level of Cert
+
+{!Opportunity.What_level_of_cert__c}
+
+Surface Finish Requirements
+
+{!Opportunity.Surface_Finish_requirments__c}
+
+Send Quote direct to customers or back to sales person
+
+{!Opportunity.Send_quote_direct_to_customer_or_back_to__c}
+
+Other/Notes: {!Opportunity.Description}</textOnly>
+    <type>html</type>
+</EmailTemplate>

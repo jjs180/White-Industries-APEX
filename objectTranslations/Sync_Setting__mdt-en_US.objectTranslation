@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <help><!-- Email addresses to send errors to. Separated through comma. --></help>
+        <label><!-- Error Email Addresses --></label>
+        <name>Error_Email_Addresses__c</name>
+    </fields><fields>
+        <label><!-- SQL Connection Password --></label>
+        <name>SQL_Connection_Password__c</name>
+    </fields><fields>
+        <label><!-- SQL Connection Username --></label>
+        <name>SQL_Connection_Username__c</name>
+    </fields><fields>
+        <label><!-- SQL Server Database --></label>
+        <name>SQL_Server_Database__c</name>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Sync Setting</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Sync_Settings</value>
+    </caseValues><startsWith>Consonant</startsWith></CustomObjectTranslation>

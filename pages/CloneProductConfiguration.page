@@ -1,0 +1,26 @@
+<!--
+* ─────────────────────────────────────────────────────────────────────────────────────────────────
+* VF page that clones the Product Confguration with its children
+* ─────────────────────────────────────────────────────────────────────────────────────────────────
+* Initial implementation
+* @author		Lucian Ciobanu <lucian.ciobanu@deutoria.com>
+* @created		2017-02-10
+* ─────────────────────────────────────────────────────────────────────────────────────────────────
+* Changes
+*
+* ─────────────────────────────────────────────────────────────────────────────────────────────────
+-->
+<apex:page standardController="Product_Configuration__c" extensions="CloneProductConfiguration">
+  <apex:form >
+        <apex:pageBlock title="Clone Product Configuration">
+            <apex:pageBlockSection columns="1">
+                <apex:inputField value="{!clone.Name}" />
+                <apex:pageMessages />
+            </apex:pageBlockSection>
+            <apex:pageblockButtons >
+                <apex:commandButton value="Continue" action="{!CloneRecord}" />
+                <apex:commandButton value="Back" action="{!GoBack}" />
+            </apex:pageblockButtons>
+        </apex:pageBlock>
+    </apex:form>         
+</apex:page>

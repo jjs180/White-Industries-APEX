@@ -1,0 +1,1331 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html style="" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <!-- NAME: 1 COLUMN - BANDED -->
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>White Industries News - April 2017</title>
+    <style type="text/css">
+      body,#bodyTable,#bodyCell{
+      height:100% !important;
+      margin:0;
+      padding:0;
+      width:100% !important;
+      }
+      table{
+      border-collapse:collapse;
+      }
+      img,a img{
+      border:0;
+      outline:none;
+      text-decoration:none;
+      }
+      h1,h2,h3,h4,h5,h6{
+      margin:0;
+      padding:0;
+      }
+      p{
+      margin:1em 0;
+      padding:0;
+      }
+      a{
+      word-wrap:break-word;
+      }
+      .ReadMsgBody{
+      width:100%;
+      }
+      .ExternalClass{
+      width:100%;
+      }
+      .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
+      line-height:100%;
+      }
+      table,td{
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+      }
+      #outlook a{
+      padding:0;
+      }
+      img{
+      -ms-interpolation-mode:bicubic;
+      }
+      body,table,td,p,a,li,blockquote{
+      -ms-text-size-adjust:100%;
+      -webkit-text-size-adjust:100%;
+      font-family: Arial, Helvetica, sans-serif;
+      }
+      #bodyCell{
+      padding:0;
+      }
+      .mcnImage{
+      vertical-align:bottom;
+      }
+      .mcnTextContent img{
+      height:auto !important;
+      }
+      /*
+      @tab Page
+      @section background style
+      @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+      */
+      body,#bodyTable{
+      /*@editable*/background-color:#f2f2f2;
+      }
+      /*
+      @tab Page
+      @section background style
+      @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+      */
+      #bodyCell{
+      /*@editable*/border-top:0;
+      }
+      /*
+      @tab Page
+      @section heading 1
+      @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+      @style heading 1
+      */
+      h1{
+      /*@editable*/color:#000000 !important;
+      display:block;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:30px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:100%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Page
+      @section heading 2
+      @tip Set the styling for all second-level headings in your emails.
+      @style heading 2
+      */
+      h2{
+      /*@editable*/color:#404040 !important;
+      display:block;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:26px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:-.75px;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Page
+      @section heading 3
+      @tip Set the styling for all third-level headings in your emails.
+      @style heading 3
+      */
+      h3{
+      /*@editable*/color:#b9b9b9 !important;
+      display:block;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:18px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Page
+      @section heading 4
+      @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+      @style heading 4
+      */
+      h4{
+      /*@editable*/color:#808080 !important;
+      display:block;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:16px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Preheader
+      @section preheader style
+      @tip Set the background color and borders for your email's preheader area.
+      */
+      #templatePreheader{
+      /*@editable*/background-color:#404347;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+      }
+      /*
+      @tab Preheader
+      @section preheader text
+      @tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+      */
+      .preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent p{
+      /*@editable*/color:#ffffff;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:11px;
+      /*@editable*/line-height:125%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Preheader
+      @section preheader link
+      @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+      */
+      .preheaderContainer .mcnTextContent a{
+      /*@editable*/color:#eeeeee;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      /*
+      @tab Header
+      @section header style
+      @tip Set the background color and borders for your email's header area.
+      */
+      #templateHeader{
+      /*@editable*/background-color:#ffffff;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:3px solid #f2f2f2;
+      }
+      /*
+      @tab Header
+      @section header text
+      @tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+      */
+      .headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+      /*@editable*/color:#606060;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:15px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Header
+      @section header link
+      @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+      */
+      .headerContainer .mcnTextContent a{
+      /*@editable*/color:#6DC6DD;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      /*
+      @tab Body
+      @section body style
+      @tip Set the background color and borders for your email's body area.
+      */
+      #templateBody{
+      /*@editable*/background-color:#FFFFFF;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+      }
+      /*
+      @tab Body
+      @section body text
+      @tip Set the styling for your email's body text. Choose a size and color that is easy to read.
+      */
+      .bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+      /*@editable*/color:#444444;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:14px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Body
+      @section body link
+      @tip Set the styling for your email's body links. Choose a color that helps them stand out from your text.
+      */
+      .bodyContainer .mcnTextContent a{
+      /*@editable*/color:#d93b23;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      /*
+      @tab Footer
+      @section footer style
+      @tip Set the background color and borders for your email's footer area.
+      */
+      #templateFooter{
+      /*@editable*/background-color:#404347;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+      }
+      /*
+      @tab Footer
+      @section footer text
+      @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+      */
+      .footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+      /*@editable*/color:#606060;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:11px;
+      /*@editable*/line-height:125%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Footer
+      @section footer link
+      @tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+      */
+      .footerContainer .mcnTextContent a{
+      /*@editable*/color:#606060;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      @media only screen and (max-width: 480px){
+      body,table,td,p,a,li,blockquote{
+      -webkit-text-size-adjust:none !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      body{
+      width:100% !important;
+      min-width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnTextContentContainer]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      .mcnBoxedTextContentContainer{
+      max-width:100% !important;
+      min-width:100% !important;
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcpreview-image-uploader]{
+      width:100% !important;
+      display:none !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      img[class=mcnImage]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnImageGroupContentContainer]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageGroupContent]{
+      padding:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageGroupBlockInner]{
+      padding-bottom:0 !important;
+      padding-top:0 !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      tbody[class=mcnImageGroupBlockOuter]{
+      padding-bottom:9px !important;
+      padding-top:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnCaptionTopContent],table[class=mcnCaptionBottomContent]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnCaptionLeftTextContentContainer],table[class=mcnCaptionRightTextContentContainer],table[class=mcnCaptionLeftImageContentContainer],table[class=mcnCaptionRightImageContentContainer],table[class=mcnImageCardLeftTextContentContainer],table[class=mcnImageCardRightTextContentContainer]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardLeftImageContent],td[class=mcnImageCardRightImageContent]{
+      padding-right:18px !important;
+      padding-left:18px !important;
+      padding-bottom:0 !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardBottomImageContent]{
+      padding-bottom:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardTopImageContent]{
+      padding-top:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardLeftImageContent],td[class=mcnImageCardRightImageContent]{
+      padding-right:18px !important;
+      padding-left:18px !important;
+      padding-bottom:0 !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardBottomImageContent]{
+      padding-bottom:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardTopImageContent]{
+      padding-top:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnCaptionLeftContentOuter] td[class=mcnTextContent],table[class=mcnCaptionRightContentOuter] td[class=mcnTextContent]{
+      padding-top:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnCaptionBlockInner] table[class=mcnCaptionTopContent]:last-child td[class=mcnTextContent]{
+      padding-top:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnBoxedTextContentColumn]{
+      padding-left:18px !important;
+      padding-right:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnTextContent]{
+      padding-right:18px !important;
+      padding-left:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section template width
+      @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.
+      */
+      table[class=templateContainer]{
+      /*@tab Mobile Styles
+      @section template width
+      @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.*/max-width:600px !important;
+      /*@editable*/width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 1
+      @tip Make the first-level headings larger in size for better readability on small screens.
+      */
+      h1{
+      /*@editable*/font-size:24px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 2
+      @tip Make the second-level headings larger in size for better readability on small screens.
+      */
+      h2{
+      /*@editable*/font-size:20px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 3
+      @tip Make the third-level headings larger in size for better readability on small screens.
+      */
+      h3{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 4
+      @tip Make the fourth-level headings larger in size for better readability on small screens.
+      */
+      h4{
+      /*@editable*/font-size:16px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Boxed Text
+      @tip Make the boxed text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+      */
+      table[class=mcnBoxedTextContentContainer] td[class=mcnTextContent],td[class=mcnBoxedTextContentContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Preheader Visibility
+      @tip Set the visibility of the email's preheader on small screens. You can hide it to save space.
+      */
+      table[id=templatePreheader]{
+      /*@editable*/display:block !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Preheader Text
+      @tip Make the preheader text larger in size for better readability on small screens.
+      */
+      td[class=preheaderContainer] td[class=mcnTextContent],td[class=preheaderContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:14px !important;
+      /*@editable*/line-height:115% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Header Text
+      @tip Make the header text larger in size for better readability on small screens.
+      */
+      td[class=headerContainer] td[class=mcnTextContent],td[class=headerContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Body Text
+      @tip Make the body text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+      */
+      td[class=bodyContainer] td[class=mcnTextContent],td[class=bodyContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section footer text
+      @tip Make the body content text larger in size for better readability on small screens.
+      */
+      td[class=footerContainer] td[class=mcnTextContent],td[class=footerContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:14px !important;
+      /*@editable*/line-height:115% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=footerContainer] a[class=utilityLink]{
+      display:block !important;
+      }
+      
+      }    </style>
+  </head>
+  <body leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+    <center>
+      <p>&nbsp;
+      </p>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" id="bodyTable" width="100%">
+        <tbody>
+          <tr>
+            <td align="center" id="bodyCell" valign="top">
+              <!-- BEGIN TEMPLATE // -->
+              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN PREHEADER // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="preheaderContainer" style="padding-top:9px;" valign="top">
+                                      <table bgcolor="404347" border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%; background-color: #404347;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" width="366">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-left:18px; padding-bottom:9px; padding-right:0;" valign="top">
+                                                      <strong style="color:#ffffff;">April 2017</strong></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                              <table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" width="197">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:4px; padding-right:18px; padding-bottom:9px; padding-left:18px;" valign="top">
+                                                      <div>
+                                                        <h3 style="color: #ffffff; text-align: right;">
+                                                          <font color="white">1300 825 980</font></h3>
+                                                      </div>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- // END PREHEADER --></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN HEADER // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templateHeader" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="headerContainer" style="padding-top:10px; padding-bottom:10px;" valign="top">
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnImageBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnImageBlockOuter">
+                                          <tr>
+                                            <td class="mcnImageBlockInner" style="padding:0px" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnImageContent" style="padding-right: 0px; padding-left: 0px; padding-top: 0; padding-bottom: 0; text-align:center;" valign="top">
+                                                      <img align="middle" alt="" class="mcnImage" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/newsletter-header.jpg" style="max-width:600px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" width="600" /></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnCodeBlock" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <div style="margin-top:10px;">
+                                                <a href="http://whiteindustries.com.au/request-a-quote/" style="line-height: 20.8px;" target="_blank"><img align="right" alt="Request A Quote Link" height="30" src="https://gallery.mailchimp.com/dc30be044ef6259e67321678a/images/c63bf951-f8f1-4590-8a02-b22bde23016e.gif" style="opacity: 0.9; width: 145px; height: 30px; margin: 0px;" width="145" /></a><a href="http://whiteindustries.com.au/contact-us/" target="_blank"><img align="right" alt="Contact Us Link" height="30" src="https://gallery.mailchimp.com/dc30be044ef6259e67321678a/images/8540ef5a-13a4-4a3f-a7a3-29ebd8215f14.gif" style="width: 120px; height: 30px; margin: 0px;" width="120" /></a></div>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnCodeBlock" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="middle">
+                                              <h3 style="display:block; min-height:35px; padding: 10px 10px 5px 10px; border-top: 2px solid #404347; border-bottom: 2px solid #d93b22; color:#ffffff !important; background:#404347;">
+                                                &nbsp;&nbsp;<span style="color:#ffffff; padding: 15px 0 0 0;">IN THIS ISSUE</span></h3>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <ul>
+                                                        <li>
+                                                          <a href="#article-1" style="color:#d93b23;" target="_self">Local Support: Business After Hours</a></li>
+                                                        <li>
+                                                          <a href="#article-2" style="color:#d93b23;" target="_self">White Industries Heavy Duty Stub Axles</a></li>
+                                                        <li>
+                                                          <a href="#article-3" style="color:#d93b23;" target="_self">Manufacturing Trade Event of the Year!</a></li>
+                                                        <li>
+                                                          <a href="#article-4" style="color:#d93b23;" target="_self">20 Years Celebration</a></li>
+                                                        <li>
+                                                          <a href="#article-5" style="color:#d93b23;" target="_self">Australian Business News</a></li>
+                                                        <li>
+                                                          <a href="#article-6" style="color:#d93b23;" target="_self">Our Heat Treatment Facilities</a></li>
+                                                      </ul>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- // END HEADER --></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN BODY // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templateBody" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="bodyContainer" style="padding-top:10px; padding-bottom:10px;" valign="top">
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-1" name="article-1"></a><span class="s1"><strong><span style="padding-right: 10px;">Local Support: Business After Hours</span></strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" valign="top">
+                                                      <p style="padding-right: 10px;">
+                                                        <span style="font-size:16px;"><strong>Dalby Chamber of Commerce Business After Hours</strong></span></p>
+                                                      <p style="padding-right: 10px;">
+                                                        Business After Hours is an informal, social get-together aimed at showcasing local businesses and providing a great opportunity for networking. White Industries hosted the evening for March, with a record attendance of over 230 people. It was an opportunity for local businesses to see what goes on behind the gates at White Industries.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        We remained open, with production in full swing while conducting group tours through the Foundry for all could follow the casting process. </p>
+                                                      <p style="text-size: 1px; line-height: 1px; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;"><img alt="Business After Hours Event" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/april-2017/after-hours.jpg" style="width: 740px; height: 250px; display: block; margin: 0 auto; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;" width="740" height="250"> <br/> &nbsp;</p>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td colspan="2">&nbsp;
+                                              
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:0; padding-right: 18px; padding-bottom: 0; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-2" name="article-2"></a><span class="s1"><strong><span style="padding-right: 10px;">White Industries Heavy Duty Stub Axles</span></strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <p style="padding-right: 10px;">
+                                                        Did you know White Industries manufactures a wide range of heavy duty hubs and stub axles? We are off-road equipment specialists, manufacturing for OEM's,  agricultural  and aftermarket parts markets  for decades.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        We carry large stocks of hub and stub assemblies, backed up by a full compliment of spare parts to suit a range of load capacity from 1500kg to 20,000 kg as per our <a href="http://whiteindustries.com.au/download/standard-white-hub-and-stub-axles-specifications/?wpdmdl=1253">specification sheet</a>.</p>
+                                                      <p>
+                                                        Our hubs are cast and machined in house and are of the highest  designed and quality. They are built with longevity in mind and feature triple lip seals, solid bolt on greasable dust caps.</p>
+                                                      <p>
+                                                        Check out more information on our <a href="http://whiteindustries.com.au">website</a> or call us on 1300 825 980 for more information.</p>
+                                                      <p>&nbsp;</p>
+                                                    </td>
+                                                    <td style="width: 200px; margin: 0px 15px 15px 0px;">
+                                                      <img alt="Heavy Duty Hubs" height="250" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/april-2017/heavy-duty-hubs.jpg" style="width: 200px; height: 250px; margin: 0px;" width="200" /></td>
+                                                  </tr>
+                                                  
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; margin-top: -15px; padding:0 18px 0px 18px; position: relation; top: -17px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      
+                                      
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;" width="100%">
+                                                <tbody>
+<tr><td>&nbsp;</td></tr>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-3" name="article-3"></a><span class="s1"><strong><span style="padding-right: 10px;">Manufacturing Trade Event of the Year!</span></strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;" width="100%">
+                                                
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;" valign="top">
+                                                      <p style="padding-right: 10px; border: none !important; border-collapse:collapse !important; border-bottom: 0 !important;">
+                                                        <span style="font-size:16px;"><strong>National Manufacturing Week "AUSTECH 2017"</strong></span><br />
+                                                        <strong>May 9th to 12th 2017 - Melbourne Convention and Exhibition Centre</strong></p>
+                                                      <p style="padding-right: 10px;">
+                                                        Australia’s premier manufacturing trade event returns to Melbourne, with its unprecedented program of free education and networking.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        AUSTECH (National Manufacturing Week) is as unique opportunity with the largest gathering of Australian Manufacturing industry decision makers under one roof.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        It is as chance to:</p>
+                                                      <ul>
+                                                        <li style="padding-right: 10px;">
+                                                          Network and do business in your market.</li>
+                                                        <li style="padding-right: 10px;">
+                                                          Generate new business.</li>
+                                                        <li style="padding-right: 10px;">
+                                                          Promote “Your” business and discuss new solutions to improve your bottom line.</li>
+                                                        <li style="padding-right: 10px;">
+                                                          Meet suppliers face to face and view their products.</li>
+                                                      </ul>
+                                                      <p style="padding-right: 10px;">
+                                                        AUSTECH’s list of Industry specific businesses will highlight the wide range of products and be incorporated under one roof. This face to face environment gives the buyer the opportunity to develop new and existing relationships, whilst sourcing new products.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        We look forward to meeting up with as many of our Victorian and interstate customers as possible.This is an excellent opportunity to discuss the many aspects of the foundry manufacturing process, and see first hand, the high quality  products we manufacture in person. If you are interested in reserving a time to meet with either Craig White or Jim Stevenson at the event, <a href="mailto:jim.stevenson@whiteindustries.com.au&amp;subject=NMW%20Catch%20Up%20Meeting">simply click here to send us an email</a>.</p>
+                                                      <p style="padding-right: 10px;">If you would like more information or wish to register for NMW, head over to the <a href="http://www.amtil.com.au/Austech-Exhibition/Austech-News/AUSTECH-2017-%E2%80%93-The-Big-Show,-Only-in-Melbourne#.WNmb6W-GOUk">AUSTECH website</a>.</p>
+                                                    </td>
+                                                    <td style="width: 200px; margin: 0px 15px 15px 0px;">
+                                                      <p>
+                                                        <img alt="AUSTECH Melbourne Convention Centre" height="155" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/april-2017/manufacturing-week-3.jpg" style="width: 200px; height: 155px; margin-top: 0px;margin-left: 0px;margin-right: 0px;margin-bottom: 20px; display: block;" width="200" /></p>
+                                                      <p>
+                                                        <img alt="AUSTECH Melbourne" height="155" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/april-2017/manufacturing-week-1.jpg" style="width: 200px; height: 155px; margin-top: 0px;margin-left: 0px;margin-right: 0px;margin-bottom: 20px; display: block;" width="200" /></p>
+                                                      <p>
+                                                        <img alt="White Industries stall at" height="155" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/april-2017/manufacturing-week-2.jpg" style="width: 200px; height: 155px; margin-top: 0px;margin-left: 0px;margin-right: 0px;margin-bottom: 20px; display: block;" width="200" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+<tr><td>&nbsp;</td></tr>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="margin-top: -10px; padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-4" name="article-4"></a><span class="s1"><strong>20 Years Celebration!</strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <p>
+                                                        Neil Andrew (a.k.a Scoob), our Quality Assurance Officer, celebrated 20 years of continuous service in March! On behalf of everyone at White Industries, we offer our congratulations to  Neil, and appreciate that our growth and success is dependent on having devoted and capable team members.</p>
+                                                      <p>Neil has been an important part of helping us achieve our goals and wish to express our appreciation for his hard work and dedication. Thank you for all you have done during your years of service and for your ongoing commitment to our success. </p>
+                                                    </td>
+                                                    <td style="width: 200px; margin: 0px 15px 15px 0px;">
+                                                      <img alt="Neil Andrew celebrates 20 years at White Industries" height="304" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/april-2017/neil-andrew-20-years-celebration.jpg" style="width: 200px; height: 304px; margin: 0px;" width="200" /></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                                <tbody class="mcnDividerBlockOuter">
+                                                  <tr>
+                                                    <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td>&nbsp;
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td bgcolor="#ffffff" style="margin:0px; padding:0px; background: #ffffff;" width="10px">&nbsp;
+                                                    </td>
+                                                    <td bgcolor="#efca00;" style="background: #efca00; margin:0px; padding:0" width="15px">
+                                                      &nbsp;&nbsp;</td>
+                                                    <td bgcolor="#444" class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px; background:#444; margin: 0;" valign="top">
+                                                      <h2 class="null" style="background:#444;">
+                                                        <a id="article-5" name="article-5" style="background:#444;"></a><span style="color:#efca00; background:#444;">Autralian Business News</span><br />
+                                                        <span style="color:#fff; font-size:16px; font-weight:200; background:#444;">INDUSTRY HEADLINES</span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:15px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h3 class="null">
+                                                        Australia to Invest in Snowy Mountains Hydro Power</h3>
+                                                      <p style="padding-right: 10px;">
+                                                        <em><span style="font-size:13px;">caption: Snowy Hydro's Tumut Generating Station</span></em></p>
+                                                      <p style="padding-right: 10px;">
+                                                        The federal government has announced a 50 percent expansion of the output of the Snowy Hydro Scheme. The proposed plan would involve a new series of tunnels and power stations to better utilise the existing Snowy Hydro infrastructure, rather than build new dams.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        Prime Minister Malcolm Turnbull claimed that the new plan will add 2000MW of power to the scheme’s existing 4100MW output and will power 500,000 homes. Four different design options using the Scheme’s existing dams will be looked at. The leading options are to rework the Tantangara Reservoir and the Talbingo Reservoir.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        Turnbull said that his plan is better than the giant battery storage facility that South Australia’s premier Jay Wetherill has unveiled. “In one hour it could produce 20 times the 100MW per hour expected from the battery proposed by the South Australian government, but would deliver it constantly for almost a week, or 350,000 MWh over seven days,” Turnbull said.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        However, the state is unlikely to back away from its plan. It wants to build South Australia’s generation capacity and contribution to the National Energy Market so it can export excess energy to Australia’s eastern seaboard.</p>
+                                                    </td>
+                                                    <td style="margin: 0px 15px 15px 15px;">
+                                                      <p style="padding-right: 10px;">
+                                                        <img align="right" alt="Snowy Hydro's Tumut Generating Station" height="186" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/april-2017/snowy-mountains-hydro-power-caption.jpg" style="width: 200px; height: 186px;" width="200" /></p>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px 18px 0 18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 2px;border-top-style: solid;border-top-color: #EAEAEA;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr style="font-size: 1px !important; line-height: 1px !important; padding: 0; margin: 0;">
+                                                    <td colspan="2" style="font-size: 1px !important; line-height: 1px !important; padding: 0; margin: -5px 0 0 0;">
+                                                      <p style="font-size: 1px !important; height: 1px; line-height: 1px !important; padding: 0; margin: 0;">&nbsp;</p>
+                                                    </td>
+                                                  </tr>
+<tr><td>&nbsp;</td></tr>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="margin-top: -15px;; padding-top:0; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-6" name="article-6"></a><span class="s1"><strong>Heat Treatment Facility</strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;font-size: 14px;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <p>
+                                                        <span style="font-size:14px;">White Industries operates six natural gas-fired heat treatment ovens and an agitated water quench facility to provide a wide range of thermal treatments such as annealing, stress relief, normalising, hardening and tempering. </span><span style="color:#333333;"><span style="font-size: 14px;">All ovens are fitted with digital controllers that are programmed for precise heating rates and hold times. The ovens are  equipped with digital recorders to maintain traceability of thermal cycles.</span></span></p>
+                                                      <p><span style="font-size:14px;">This enables White Industries to offer customers, steel and iron castings to exacting specifications, as well as a subcontracted heat treatment service.</span></p>
+                                                      <p> <span style="font-size:14px;"><span style="color:#333333;">Please</span> <a href="mailto:info@whiteindustries.com.au?subject=Heat%20Treatment" style="color: #d93b23;">contact us</a> <span style="color:#333333;">for further information or if you require a quote for heat treatment.</span></span></p>
+                                                      <p style="text-align: center;">
+                                                        <img alt="Heat Treatment Services" height="260" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/april-2017/heat-treatment.jpg" style="width: 749px; height: 260px; display: block; margin: 0 auto;" width="749" /></p>
+                                                      <p>
+                                                        <span style="font-size:14px;">The usable dimensions and operating temperatures are as follows:</span></p>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td style="padding-left: 20px; padding-right: 20px;">
+                                                      <table align="left" border="1" cellpadding="10" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%; border: 1px solid #404040;" width="100%">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td style="padding-left: 8px; padding-right: 10px">
+                                                              <span style="color:#333333;"><span style="font-size: 14px;"><strong>Oven ID</strong></span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;"><strong>Internal Height (mm)</strong></span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;"><strong>Internal Width (mm)</strong></span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 11px;"><strong>Internal Diagonal (back wall to front door sill) (mm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;"><strong>Internal Depth (mm)</strong></span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;"><strong>Internal Diam (mm)</strong></span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;"><strong>Temp Range (°C)</strong></span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;"><strong>Comment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></span></span></td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td style="padding-left: 8px; padding-right: 10px">
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">N°1</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1520</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2800</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2130</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1500</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">200-640</span></span></td>
+                                                            <td>&nbsp;
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td style="padding-right: 10px">
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">N°2</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1550</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2800</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2150</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1500</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">600-1100</span></span></td>
+                                                            <td>&nbsp;
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td style="padding-right: 10px">
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">N°3</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1040</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1460</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1790</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1460</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">600-1100</span></span></td>
+                                                            <td>&nbsp;
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td style="padding-right: 10px">
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">N°4</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">900</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1980</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">600-1100</span></span></td>
+                                                            <td>&nbsp;
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td style="padding-right: 10px">
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">N°5</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1550</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1580</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2610</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2100</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">100-700</span></span></td>
+                                                            <td>&nbsp;
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td style="padding-right: 10px">
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">N°6</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1580</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1770</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2370</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">4200</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">100-1100</span></span></td>
+                                                            <td>&nbsp;
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td style="padding-right: 10px">
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">N°7</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1550</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">1580</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2610</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2100</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">150-300</span></span></td>
+                                                            <td>&nbsp;
+                                                            </td>
+                                                          </tr>
+                                                          <tr>
+                                                            <td style="padding-right: 10px">
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">Quench</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">3500 Wide</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2500 Deep</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">2500 Deep</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">-</span></span></td>
+                                                            <td>
+                                                              <span style="color:#333333;"><span style="font-size: 14px;">Total quench water capacity with expansion tank 32,000 litres, with evaporative cooling tower.</span></span></td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <p>As always, if you have any new or existing manufacturing requirements, or just wish to ask a question, do not hesitate to give our hard-working team a call. They are always more than happy to help explain the foundry and its processes.</p>
+                                                      <p>From the team here at White Industries, we wish you all the best for the 2nd quarter of 2017!</p>
+                                                      <p>Yours sincerely,</p>
+                                                      <p><strong>Craig White</strong><br />
+                                                        C.E.O<br />
+                                                        <strong><a href="http://whiteindustries.com.au">whiteindustries.com.au</a><br />
+                                                          1300 825 980</strong></p>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- // END BODY --></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top">
+              <!-- BEGIN FOOTER // -->
+              <table bgcolor="404347" border="0" cellpadding="0" cellspacing="0" id="templateFooter" style="background-color: #404347;" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top">
+                      <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                        <tbody>
+                          <tr>
+                            <td class="footerContainer" style="padding-top:10px; padding-bottom:10px;" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                <tbody class="mcnTextBlockOuter">
+                                  <tr>
+                                    <td class="mcnTextBlockInner" valign="top">
+                                      <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                        <tbody>
+                                          <tr>
+                                            <td class="mcnTextContent" style="padding: 9px 18px;color: #AAAAAA;" valign="top">
+                                              <div style="text-align: center;">
+                                                <em>Copyright © 2017 White Industries, All rights reserved.</em></div>
+                                              <div style="text-align: center;">
+                                                As a valued client of White Industries, you're on our mailing list.<br />
+                                                <br />
+                                                <strong>Our mailing address is:</strong><br />
+                                                PO Box 350<br />
+                                                Dalby QLD 4405<br />
+                                                <br />
+                                                <strong>Contact Us:</strong><br />
+                                                Phone: 1300 825 980<br />
+                                                Email: <a href="mailto:info@whiteindustries.com.au" style="color:#ffffff;" target="_blank"><span style="color:#ffffff;">info@whiteindustries.com.au</span></a></div>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- // END FOOTER --></td>
+          </tr>
+        </tbody>
+      </table>
+      <!-- // END TEMPLATE --></center>
+  </body>
+</html>

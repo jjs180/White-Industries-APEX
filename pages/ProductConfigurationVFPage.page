@@ -1,0 +1,199 @@
+<apex:page standardController="Product_Configuration__c" extensions="ProductConfigurationVFPageController">
+    <apex:form >
+        <apex:detail subject="{!Product_Configuration__c.Id}" relatedList="true" showChatter="false" title="false" />
+        
+    	<apex:pageBlock title="Quick Edit Lists" id="form">
+        	<apex:pageMessages />
+        	<apex:pageBlockSection title="Product Processes" columns="1">
+            	<apex:pageBlockTable value="{!processes}" var="p">
+                	<apex:column headerValue="Actions">
+                        <apex:commandLink value="Edit" action="{!EditProcess}" rendered="{!!p.editmode}" rerender="form" status="counterStatus">
+                            <apex:param name="processId" value="{!p.process.Id}"/>
+                        </apex:commandLink>
+                        <apex:commandLink value="Save" action="{!SaveProcess}" rendered="{!p.editmode}" rerender="form" status="counterStatus" />
+                        &nbsp;&nbsp;
+                        <apex:commandLink value="Cancel" action="{!CancelProcess}" rendered="{!p.editmode}" rerender="form" status="counterStatus" immediate="true" />
+                    	<apex:commandLink value="Delete" action="{!DeleteProcess}" rendered="{!!p.editmode}" rerender="form" status="counterStatus">
+                        	<apex:param name="processId" value="{!p.process.Id}" />
+                    	</apex:commandLink>
+                        <apex:facet name="footer">
+                            <apex:outputPanel >
+                                <apex:commandLink value="Add" action="{!AddNewProcess}" rendered="{!!isNewProcess}" rerender="form" status="counterStatus" />
+                                <apex:commandLink value="Save" action="{!SaveNewProcess}" rendered="{!isNewProcess}" rerender="form" status="counterStatus" />
+                                &nbsp;&nbsp;
+                                <apex:commandLink value="Cancel" action="{!CancelNewProcess}" rendered="{!isNewProcess}" rerender="form" status="counterStatus" immediate="true" />
+                            </apex:outputPanel>
+                        </apex:facet>
+                    </apex:column>
+                    <apex:repeat value="{!$ObjectType.Product_Process__c.FieldSets.Mass_Edit_Fields}" var="f">
+                        <apex:column headerValue="{!f.Label}">
+                            <apex:outputField value="{!p.process[f]}" rendered="{!!p.editmode}"/>
+                            <apex:inputField value="{!p.editProcess[f]}" rendered="{!p.editmode}"/>
+                            <apex:facet name="footer">
+                                <apex:outputPanel >
+                                    <apex:outputPanel rendered="{!isNewProcess}">
+                                        <apex:inputField value="{!newProcess[f]}" />
+                                    </apex:outputPanel>
+                                </apex:outputPanel>
+                            </apex:facet>
+                        </apex:column>
+                    </apex:repeat>
+                </apex:pageBlockTable>
+            </apex:pageBlockSection>
+            <apex:pageBlockSection title="Product Materials" columns="1">
+            	<apex:pageBlockTable value="{!materials}" var="m">
+                	<apex:column headerValue="Actions">
+                        <apex:commandLink value="Edit" action="{!EditMaterial}" rendered="{!!m.editmode}" rerender="form" status="counterStatus">
+                            <apex:param name="materialId" value="{!m.material.Id}"/>
+                        </apex:commandLink>
+                        <apex:commandLink value="Save" action="{!SaveMaterial}" rendered="{!m.editmode}" rerender="form" status="counterStatus" />
+                        &nbsp;&nbsp;
+                        <apex:commandLink value="Cancel" action="{!CancelMaterial}" rendered="{!m.editmode}" rerender="form" status="counterStatus" immediate="true" />
+                    	<apex:commandLink value="Delete" action="{!DeleteMaterial}" rendered="{!!m.editmode}" rerender="form" status="counterStatus">
+                        	<apex:param name="materialId" value="{!m.material.Id}" />
+                    	</apex:commandLink>
+                        <apex:facet name="footer">
+                            <apex:outputPanel >
+                                <apex:commandLink value="Add" action="{!AddNewMaterial}" rendered="{!!isNewMaterial}" rerender="form" status="counterStatus" />
+                                <apex:commandLink value="Save" action="{!SaveNewMaterial}" rendered="{!isNewMaterial}" rerender="form" status="counterStatus" />
+                                &nbsp;&nbsp;
+                                <apex:commandLink value="Cancel" action="{!CancelNewMaterial}" rendered="{!isNewMaterial}" rerender="form" status="counterStatus" immediate="true" />
+                            </apex:outputPanel>
+                        </apex:facet>
+                    </apex:column>
+                    <apex:repeat value="{!$ObjectType.Product_Material__c.FieldSets.Mass_Edit_Fields}" var="f">
+                        <apex:column headerValue="{!f.Label}">
+                            <apex:outputField value="{!m.material[f]}" rendered="{!!m.editmode}"/>
+                            <apex:inputField value="{!m.editMaterial[f]}" rendered="{!m.editmode}"/>
+                            <apex:facet name="footer">
+                                <apex:outputPanel >
+                                    <apex:outputPanel rendered="{!isNewMaterial}">
+                                        <apex:inputField value="{!newMaterial[f]}" />
+                                    </apex:outputPanel>
+                                </apex:outputPanel>
+                            </apex:facet>
+                        </apex:column>
+                    </apex:repeat>
+                </apex:pageBlockTable>
+            </apex:pageBlockSection>
+            <!--
+            <apex:pageBlockSection title="Patterns" columns="1">
+            	<apex:pageBlockTable value="{!patterns}" var="m">
+                	<apex:column headerValue="Actions">
+                        <apex:commandLink value="Edit" action="{!EditPattern}" rendered="{!!m.editmode}" rerender="form" status="counterStatus">
+                            <apex:param name="patternId" value="{!m.pattern.Id}"/>
+                        </apex:commandLink>
+                        <apex:commandLink value="Save" action="{!SavePattern}" rendered="{!m.editmode}" rerender="form" status="counterStatus" />
+                        &nbsp;&nbsp;
+                        <apex:commandLink value="Cancel" action="{!CancelPattern}" rendered="{!m.editmode}" rerender="form" status="counterStatus" immediate="true" />
+                    	<apex:commandLink value="Delete" action="{!DeletePattern}" rendered="{!!m.editmode}" rerender="form" status="counterStatus">
+                        	<apex:param name="patternId" value="{!m.pattern.Id}" />
+                    	</apex:commandLink>
+                        <apex:facet name="footer">
+                            <apex:outputPanel >
+                                <apex:commandLink value="Add" action="{!AddNewPattern}" rendered="{!!isNewPattern}" rerender="form" status="counterStatus" />
+                                <apex:commandLink value="Save" action="{!SaveNewPattern}" rendered="{!isNewPattern}" rerender="form" status="counterStatus" />
+                                &nbsp;&nbsp;
+                                <apex:commandLink value="Cancel" action="{!CancelNewPattern}" rendered="{!isNewPattern}" rerender="form" status="counterStatus" immediate="true" />
+                            </apex:outputPanel>
+                        </apex:facet>
+                    </apex:column>
+                    <apex:repeat value="{!$ObjectType.Pattern__c.FieldSets.Mass_Edit_Fields}" var="f">
+                        <apex:column headerValue="{!f.Label}">
+                            <apex:outputField value="{!m.pattern[f]}" rendered="{!!m.editmode}"/>
+                            <apex:inputField value="{!m.editPattern[f]}" rendered="{!m.editmode}"/>
+                            <apex:facet name="footer">
+                                <apex:outputPanel >
+                                    <apex:outputPanel rendered="{!isNewPattern}">
+                                        <apex:inputField value="{!newPattern[f]}" />
+                                    </apex:outputPanel>
+                                </apex:outputPanel>
+                            </apex:facet>
+                        </apex:column>
+                    </apex:repeat>
+                </apex:pageBlockTable>
+            </apex:pageBlockSection>
+            <apex:pageBlockSection title="Machine Fixtures" columns="1">
+            	<apex:pageBlockTable value="{!fixtures}" var="m">
+                	<apex:column headerValue="Actions">
+                        <apex:commandLink value="Edit" action="{!EditFixture}" rendered="{!!m.editmode}" rerender="form" status="counterStatus">
+                            <apex:param name="fixtureId" value="{!m.fixture.Id}"/>
+                        </apex:commandLink>
+                        <apex:commandLink value="Save" action="{!SaveFixture}" rendered="{!m.editmode}" rerender="form" status="counterStatus" />
+                        &nbsp;&nbsp;
+                        <apex:commandLink value="Cancel" action="{!CancelFixture}" rendered="{!m.editmode}" rerender="form" status="counterStatus" immediate="true" />
+                    	<apex:commandLink value="Delete" action="{!DeleteFixture}" rendered="{!!m.editmode}" rerender="form" status="counterStatus">
+                        	<apex:param name="fixtureId" value="{!m.fixture.Id}" />
+                    	</apex:commandLink>
+                        <apex:facet name="footer">
+                            <apex:outputPanel >
+                                <apex:commandLink value="Add" action="{!AddNewFixture}" rendered="{!!isNewFixture}" rerender="form" status="counterStatus" />
+                                <apex:commandLink value="Save" action="{!SaveNewFixture}" rendered="{!isNewFixture}" rerender="form" status="counterStatus" />
+                                &nbsp;&nbsp;
+                                <apex:commandLink value="Cancel" action="{!CancelNewFixture}" rendered="{!isNewFixture}" rerender="form" status="counterStatus" immediate="true" />
+                            </apex:outputPanel>
+                        </apex:facet>
+                    </apex:column>
+                    <apex:repeat value="{!$ObjectType.Machine_Fixture__c.FieldSets.Mass_Edit_Fields}" var="f">
+                        <apex:column headerValue="{!f.Label}">
+                            <apex:outputField value="{!m.fixture[f]}" rendered="{!!m.editmode}"/>
+                            <apex:inputField value="{!m.editFixture[f]}" rendered="{!m.editmode}"/>
+                            <apex:facet name="footer">
+                                <apex:outputPanel >
+                                    <apex:outputPanel rendered="{!isNewFixture}">
+                                        <apex:inputField value="{!newFixture[f]}" />
+                                    </apex:outputPanel>
+                                </apex:outputPanel>
+                            </apex:facet>
+                        </apex:column>
+                    </apex:repeat>
+                </apex:pageBlockTable>
+            </apex:pageBlockSection>
+			-->
+            <apex:pageBlockSection title="Product Services" columns="1">
+            	<apex:pageBlockTable value="{!services}" var="m">
+                	<apex:column headerValue="Actions">
+                        <apex:commandLink value="Edit" action="{!EditService}" rendered="{!!m.editmode}" rerender="form" status="counterStatus">
+                            <apex:param name="serviceId" value="{!m.service.Id}"/>
+                        </apex:commandLink>
+                        <apex:commandLink value="Save" action="{!SaveService}" rendered="{!m.editmode}" rerender="form" status="counterStatus" />
+                        &nbsp;&nbsp;
+                        <apex:commandLink value="Cancel" action="{!CancelService}" rendered="{!m.editmode}" rerender="form" status="counterStatus" immediate="true" />
+                    	<apex:commandLink value="Delete" action="{!DeleteService}" rendered="{!!m.editmode}" rerender="form" status="counterStatus">
+                        	<apex:param name="serviceId" value="{!m.service.Id}" />
+                    	</apex:commandLink>
+                        <apex:facet name="footer">
+                            <apex:outputPanel >
+                                <apex:commandLink value="Add" action="{!AddNewService}" rendered="{!!isNewService}" rerender="form" status="counterStatus" />
+                                <apex:commandLink value="Save" action="{!SaveNewService}" rendered="{!isNewService}" rerender="form" status="counterStatus" />
+                                &nbsp;&nbsp;
+                                <apex:commandLink value="Cancel" action="{!CancelNewService}" rendered="{!isNewService}" rerender="form" status="counterStatus" immediate="true" />
+                            </apex:outputPanel>
+                        </apex:facet>
+                    </apex:column>
+                    <apex:repeat value="{!$ObjectType.Product_Service__c.FieldSets.Mass_Edit_Fields}" var="f">
+                        <apex:column headerValue="{!f.Label}">
+                            <apex:outputField value="{!m.service[f]}" rendered="{!!m.editmode}"/>
+                            <apex:inputField value="{!m.editService[f]}" rendered="{!m.editmode}"/>
+                            <apex:facet name="footer">
+                                <apex:outputPanel >
+                                    <apex:outputPanel rendered="{!isNewService}">
+                                        <apex:inputField value="{!newService[f]}" />
+                                    </apex:outputPanel>
+                                </apex:outputPanel>
+                            </apex:facet>
+                        </apex:column>
+                    </apex:repeat>
+                </apex:pageBlockTable>
+            </apex:pageBlockSection>
+        </apex:pageBlock>
+        
+        <apex:actionStatus id="counterStatus">
+            <apex:facet name="start">
+                <div style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; background-color: white; opacity: 0.6; text-align: center; padding-top: 10px; z-index: 1000;">
+                    <img src="/img/loading32.gif" />
+                </div>
+            </apex:facet>
+        </apex:actionStatus>
+    </apex:form>
+</apex:page>

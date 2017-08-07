@@ -1,0 +1,185 @@
+<table height="400" width="550" cellpadding="5" border="0" cellspacing="5" >
+<tr height="400" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#FFFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r1" locked="0" aEditID="c1r1" >
+<![CDATA[<table width="744" style="width: 559pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><font face="Times New Roman">
+
+ </font><colgroup><col width="141" style="width: 106pt; mso-width-source: userset; mso-width-alt: 5156;"><font face="Times New Roman">
+ </font><col width="143" style="width: 107pt; mso-width-source: userset; mso-width-alt: 5229;"><font face="Times New Roman">
+ </font><col width="153" style="width: 115pt; mso-width-source: userset; mso-width-alt: 5595;"><font face="Times New Roman">
+ </font><col width="138" style="width: 104pt; mso-width-source: userset; mso-width-alt: 5046;"><font face="Times New Roman">
+ </font><col width="99" style="width: 74pt; mso-width-source: userset; mso-width-alt: 3620;"><font face="Times New Roman">
+ </font><col width="70" style="width: 53pt; mso-width-source: userset; mso-width-alt: 2560;"><font face="Times New Roman">
+ </font><tbody><tr height="25" style="height: 18.75pt; mso-height-source: userset;"><font face="Times New Roman">
+  </font><td width="744" height="25" style="border-width: 0px 0px 0.5pt; border-style: none none solid; border-color: black black windowtext; width: 559pt; height: 18.75pt; background-color: transparent;" colspan="6"><strong><font face="Calibri">RFQ - WHITE INDUSTRIES</font></strong></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: transparent;"><font size="2">Customer Name</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: transparent;"><font size="2">Customer Contact</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: transparent;"><font size="2">Delivery
+  Address</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: transparent;"><font size="2">Position</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: transparent;"><font size="2">Product Name</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: transparent;"><font size="2">Customer Phone No.</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: transparent;"><font size="2">Description</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: transparent;"><font size="2">Email Address</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: transparent;"><font size="2">Metal</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">Our Ref</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: rgb(127, 127, 127);" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: rgb(127, 127, 127);"><font size="2">Metal Notes</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: rgb(127, 127, 127);" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: transparent;"><font size="2">Date</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: rgb(127, 127, 127);"><font size="2">Reject Rate %</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: rgb(127, 127, 127);" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: transparent;"><font size="2">Net Weight- KG</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: rgb(127, 127, 127);"><font size="2">No per Box</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: rgb(127, 127, 127);" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">Gross Weight</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0px 0.5pt; border-style: none none solid; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: transparent;"><font size="2">Order Qty</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">Yield %</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0px 0.5pt; border-style: none none solid; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: transparent;"><font size="2">Annual Qty</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: transparent;"><font size="2">Drawing Number</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: rgb(127, 127, 127);"><font size="2">Terms</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: rgb(127, 127, 127);" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: transparent;"><font size="2">Drawing Rev</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: rgb(127, 127, 127);"><font size="2">Quote Done By</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: rgb(127, 127, 127);" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">Pattern Weeks</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0px 0.5pt; border-style: none none solid; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: transparent;"><font size="2">Sales Person</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="2"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">Trial Weeks</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0px 0.5pt; border-style: none none solid; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: rgb(127, 127, 127);"><font size="2">Admin Charge</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><strong><font size="2">N/A</font></strong></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">Production Weeks</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0px 0.5pt; border-style: none none solid; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: windowtext; background-color: rgb(127, 127, 127);"><font size="2">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0px black; background-color: transparent;"><font face="Calibri">YES/NO</font></td><font face="Times New Roman">
+  </font><td style="border: 0px black; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0px black; background-color: transparent;"><font face="Calibri">NOTES</font></td><font face="Times New Roman">
+  </font><td style="border: 0px black; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0px black; background-color: transparent;"></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0.5pt solid windowtext; height: 15pt; background-color: transparent;"><font size="2">Painted?</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext black; background-color: transparent;" colspan="4"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: windowtext; height: 15pt; background-color: transparent;"><font size="2">Transport?</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: black windowtext windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext black; background-color: transparent;" colspan="4"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Patterns
+  available?</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: black windowtext windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext black; background-color: transparent;" colspan="4"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Machining
+  Required?</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: black windowtext windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext black; background-color: transparent;" colspan="4"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Testing /
+  Certification<span style="mso-spacerun: yes;">&nbsp;</span></font></td><font face="Times New Roman">
+  </font><td style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: black windowtext windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+  </font><td style="border-width: 0.5pt 0.5pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext black; background-color: transparent;" colspan="4"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border-width: 0px 0px 0.5pt 0.5pt; border-style: none none solid solid; border-color: black black windowtext windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Notes</font></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+ </font><tr height="20" style="height: 15pt;"><font face="Times New Roman">
+  </font><td height="20" style="border: 0px black; height: 15pt; background-color: transparent;"></td><font face="Times New Roman">
+  </font><td style="border: 0.5pt solid windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td><font face="Times New Roman">
+ </font></tr><font face="Times New Roman">
+
+</font></tbody></table>]]></td>
+</tr>
+</table>

@@ -1,0 +1,459 @@
+<table height="400" width="550" cellpadding="5" border="0" cellspacing="5" >
+<tr height="400" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#FFFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r1" locked="0" aEditID="c1r1" >
+<![CDATA[<table width="677" style="width: 508pt; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+
+ <colgroup><col width="339" style="width: 254pt; mso-width-source: userset; mso-width-alt: 12397;">
+ <col width="64" style="width: 48pt;" span="2">
+ <col width="82" style="width: 62pt; mso-width-source: userset; mso-width-alt: 2998;">
+ <col width="64" style="width: 48pt;" span="2">
+ <tbody><tr height="21" style="height: 15.75pt;">
+  <td width="339" height="21" style="border: 0px black; width: 254pt; height: 15.75pt; background-color: transparent;"></td>
+  <td width="64" style="border: 0px black; width: 48pt; background-color: transparent;"></td>
+  <td width="64" style="border: 0px black; width: 48pt; background-color: transparent;"></td>
+  <td width="82" style="border: 0px black; width: 62pt; background-color: transparent;"></td>
+  <td width="64" style="border: 0px black; width: 48pt; background-color: transparent;"></td>
+  <td width="64" style="border: 0px black; width: 48pt; background-color: transparent;"></td>
+ </tr>
+ <tr height="35" style="height: 26.25pt;">
+  <td width="677" height="35" align="left" valign="top" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; width: 508pt; height: 26.25pt; background-color: transparent;" colspan="6"><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_s1026" type="#_x0000_t75"
+   alt="cid:image001.png@01CE57B5.7E8E38B0" style='position:absolute;
+   margin-left:38.25pt;margin-top:.75pt;width:36.75pt;height:45.75pt;z-index:1;
+   visibility:visible' o:gfxdata="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
+AAAAAA==
+">
+   <v:imagedata src="file:///C:\Users\JIMSTE~1\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png"
+    o:title=""/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:CF>Bitmap</x:CF>
+    <x:AutoPict/>
+   </x:ClientData>
+  </v:shape><![endif]--><!--[if !vml]--><span style="margin: 1px auto auto 51px; width: 49px; height: 61px; position: absolute; z-index: 1; mso-ignore: vglayout;"><img width="49" height="61" alt="cid:image001.png@01CE57B5.7E8E38B0" src="file:///C:/Users/JIMSTE~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif" v:shapes="Picture_x0020_1"></span><!--[endif]--><span style="mso-ignore: vglayout2;"><font face="Calibri">
+  </font><font face="Calibri">
+   </font><font face="Calibri">
+    </font><font face="Calibri">
+   </font><font face="Calibri">
+  </font><table cellspacing="0" cellpadding="0"><tbody><tr><td width="677" height="35" class="xl115" style="border-width: 1pt 1pt 0px; border-style: solid solid none; border-color: windowtext black black windowtext; width: 508pt; height: 26.25pt; background-color: transparent;" colspan="6"><font face="Calibri"><font size="6"><strong><span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>WHITE INDUSTRIES<span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><font class="font5"><span style="mso-spacerun: yes;">&nbsp;</span></font></font><font class="font6">Date:</font></font></td></tr></tbody></table><font face="Calibri">
+  </font></span></td>
+ </tr>
+ <tr height="25" style="height: 18.75pt;">
+  <td height="25" class="xl118" style="border-width: 0px 1pt 0.5pt; border-style: none solid solid; border-color: black black windowtext windowtext; height: 18.75pt; background-color: transparent;" colspan="6"><font face="Calibri"><strong><font size="5"><span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>ESTIMATING CHECKLIST<span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></font></strong><font class="font6"><span style="mso-spacerun: yes;">&nbsp;</span>Salesperson</font><font class="font7" size="5">: Jim Stevenson</font></font></td>
+ </tr>
+ <tr height="21" style="height: 15.75pt;">
+  <td height="21" class="xl121" style="border-width: 0.5pt 1pt; border-style: solid; border-color: windowtext black windowtext windowtext; height: 15.75pt; background-color: transparent;" colspan="6"><font face="Calibri"><span style="mso-spacerun: yes;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </strong></span><font class="font6"><span style="mso-spacerun: yes;">&nbsp;&nbsp;</span>RFQ
+  Required By:</font></font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl65" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Company Name<span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>(Capitals)<span style="mso-spacerun: yes;">&nbsp;</span></font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Phone</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Fax</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl65" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Billing Address (Postal)<span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>(Capitals)</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl65" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Delivery Address<span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>(Capitals)</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl65" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl101" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Customer
+  Contact<span style="mso-spacerun: yes;">&nbsp; </span>- Not in Capitals</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Position</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Phone</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Fax</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Mobile</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Email address</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Size of the
+  company (Number of Employees)</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl67" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">How long have they been in
+  business?</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0.5pt; border-style: none solid; border-color: black black black windowtext; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">How do they know about us?</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Potential to
+  lead to more work?<span style="mso-spacerun: yes;">&nbsp;</span></font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Other</font></td>
+  <td class="xl107" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="21" style="height: 15.75pt;">
+  <td height="21" class="xl110" style="border-width: 0.5pt 1pt; border-style: solid; border-color: windowtext black windowtext windowtext; height: 15.75pt; background-color: transparent;" colspan="6"><strong><font face="Calibri">PRODUCT DETAILS</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl65" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Name (drawing number)<span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(Capitals)</font></td>
+  <td class="xl113" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Description<span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>(Capitals)</font></td>
+  <td class="xl114" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><strong><font face="Calibri">&nbsp;</font></strong></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Drawing
+  available?</font></td>
+  <td class="xl68" style="border: 0px black; background-color: transparent;"><font face="Calibri">Yes</font></td>
+  <td class="xl69" style="border: 0.5pt solid windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl68" style="border: 0px black; background-color: transparent;"><font face="Calibri">No</font></td>
+  <td class="xl69" style="border: 0.5pt solid windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl70" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black windowtext black black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Patterns
+  available?</font></td>
+  <td class="xl68" style="border: 0px black; background-color: transparent;"><font face="Calibri">Yes</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl68" style="border: 0px black; background-color: transparent;"><font face="Calibri">No</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl71" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black windowtext black black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Machine
+  tooling available?</font></td>
+  <td class="xl68" style="border: 0px black; background-color: transparent;"><font face="Calibri">Yes</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl68" style="border: 0px black; background-color: transparent;"><font face="Calibri">No</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl71" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black windowtext black black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Order qty</font></td>
+  <td class="xl83" style="border-width: 0.5pt 1pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Annual qty</font></td>
+  <td class="xl106" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl66" style="border-width: 0px 0.5pt 0px 1pt; border-style: none solid; border-color: black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl83" style="border-width: 0.5pt 1pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Metal/
+  material?</font></td>
+  <td class="xl106" style="border-width: 0px 1pt 0px 0.5pt; border-style: none solid; border-color: black black black windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Cast Nett
+  Weight</font></td>
+  <td class="xl83" style="border-width: 0.5pt 1pt 0.5pt 0.5pt; border-style: solid; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl101" style="border-width: 0px 1pt 0px 0.5pt; border-style: none solid; border-color: black black black windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Do they have
+  any problems with the design/part?</font></td>
+  <td class="xl73" style="border-width: 0.5pt 0px 0px 0.5pt; border-style: solid none none solid; border-color: windowtext black black windowtext; background-color: transparent;"><font face="Calibri">Yes</font></td>
+  <td class="xl69" style="border: 0.5pt solid windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl74" style="border-width: 0.5pt 0px 0px; border-style: solid none none; border-color: windowtext black black; background-color: transparent;"><font face="Calibri">No</font></td>
+  <td class="xl69" style="border: 0.5pt solid windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl75" style="border-width: 0.5pt 1pt 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext black black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Is it
+  currently getting made?</font></td>
+  <td class="xl76" style="border-width: 0.5pt 0px 0px 0.5pt; border-style: solid none none solid; border-color: windowtext black black windowtext; background-color: transparent;"><font face="Calibri">Yes</font></td>
+  <td class="xl77" style="border-width: 0px 0.5pt; border-style: none solid; border-color: black windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl78" style="border-width: 0.5pt 0px 0px; border-style: solid none none; border-color: windowtext black black; background-color: transparent;"><font face="Calibri">No</font></td>
+  <td class="xl77" style="border-width: 0px 0.5pt; border-style: none solid; border-color: black windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl79" style="border-width: 0.5pt 1pt 0px 0px; border-style: solid solid none none; border-color: windowtext windowtext black black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">If so by whom</font></td>
+  <td class="xl69" style="border-width: 0.5pt 1pt 0.5pt 0.5pt; border-style: solid; border-color: windowtext black windowtext windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Current price?
+  (if applicable)</font></td>
+  <td class="xl101" style="border-width: 0px 1pt 0px 0.5pt; border-style: none solid; border-color: black black black windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Ball Park /
+  Gut feel Price?</font></td>
+  <td class="xl101" style="border-width: 0px 1pt 0px 0.5pt; border-style: none solid; border-color: black black black windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Order Value /
+  Annual Value</font></td>
+  <td class="xl101" style="border-width: 0px 1pt 0px 0.5pt; border-style: none solid; border-color: black black black windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl80" style="border-width: 0px 1pt 0px 0.5pt; border-style: none solid; border-color: black black black windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Machining
+  Required?</font></td>
+  <td class="xl80" style="border-width: 0px 0px 0px 0.5pt; border-style: none none none solid; border-color: black black black windowtext; background-color: transparent;"><font face="Calibri">Yes</font></td>
+  <td class="xl69" style="border: 0.5pt solid windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl81" style="border: 0px black; background-color: transparent;"><font face="Calibri">No</font></td>
+  <td class="xl69" style="border: 0.5pt solid windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl71" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black windowtext black black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Painted</font></td>
+  <td class="xl80" style="border-width: 0px 0px 0px 0.5pt; border-style: none none none solid; border-color: black black black windowtext; background-color: transparent;"><font face="Calibri">Yes</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl81" style="border: 0px black; background-color: transparent;"><font face="Calibri">No</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl71" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black windowtext black black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Feight -</font></td>
+  <td class="xl80" style="border-width: 0px 0px 0px 0.5pt; border-style: none none none solid; border-color: black black black windowtext; background-color: transparent;"><font face="Calibri">FIS</font></td>
+  <td class="xl77" style="border-width: 0px 0.5pt; border-style: none solid; border-color: black windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl81" style="border: 0px black; background-color: transparent;"><font face="Calibri">FOT</font></td>
+  <td class="xl77" style="border-width: 0px 0.5pt; border-style: none solid; border-color: black windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl82" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black windowtext black black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl83" style="border-width: 0.5pt 0px 0.5pt 0.5pt; border-style: solid none solid solid; border-color: windowtext black windowtext windowtext; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl84" style="border-width: 0.5pt 0px; border-style: solid none; border-color: windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl84" style="border-width: 0.5pt 0px; border-style: solid none; border-color: windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl84" style="border-width: 0.5pt 0px; border-style: solid none; border-color: windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl85" style="border-width: 0.5pt 1pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext windowtext windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Testing /
+  Certification<span style="mso-spacerun: yes;">&nbsp;</span></font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; background-color: transparent;"><font face="Calibri">Yes</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: black windowtext windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: black windowtext windowtext black; background-color: transparent;"><font face="Calibri">No</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: black windowtext windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl71" style="border-width: 0px 1pt 0px 0px; border-style: none solid none none; border-color: black windowtext black black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">What level of
+  Cert</font></td>
+  <td class="xl101" style="border-width: 0px 1pt 0px 0.5pt; border-style: none solid; border-color: black black black windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl104" style="border-width: 0px 1pt 0px 0.5pt; border-style: none solid; border-color: black black black windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl72" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Surface Finish
+  requirments (greensand / Hardsand)</font></td>
+  <td class="xl87" style="border-width: 0px 1pt 0.5pt 0.5pt; border-style: none solid solid; border-color: black black windowtext windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl86" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;"><font face="Calibri">Send quote
+  direct to customer or back to sales person</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt; border-style: none solid solid; border-color: black windowtext windowtext; background-color: transparent;"><font face="Calibri">Direct</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: black windowtext windowtext black; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl69" style="border-width: 0px 0.5pt 0.5pt 0px; border-style: none solid solid none; border-color: black windowtext windowtext black; background-color: transparent;"><font face="Calibri">Salesperson</font></td>
+  <td class="xl69" style="border-width: 0.5pt 1pt 0.5pt 0px; border-style: solid solid solid none; border-color: windowtext black; background-color: transparent;" colspan="2"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="21" style="height: 15.75pt;">
+  <td height="21" class="xl86" style="border-width: 0px 0px 0px 1pt; border-style: none none none solid; border-color: black black black windowtext; height: 15.75pt; background-color: transparent;"><font face="Calibri">&nbsp;</font></td>
+  <td class="xl76" style="border-width: 0.5pt 1pt 0px 0.5pt; border-style: solid solid none; border-color: windowtext black black windowtext; background-color: transparent;" colspan="5"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl92" style="border-width: 1pt 1pt 0px; border-style: solid solid none; border-color: windowtext black black windowtext; height: 15pt; background-color: transparent;" colspan="6"><font face="Calibri">Other/ Notes:</font></td>
+ </tr>
+ <tr height="20" style="height: 15pt;">
+  <td height="20" class="xl95" style="border-width: 0px 1pt; border-style: none solid; border-color: black black black windowtext; height: 15pt; background-color: transparent;" colspan="6"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+ <tr height="21" style="height: 15.75pt;">
+  <td height="21" class="xl98" style="border-width: 0px 1pt 1pt; border-style: none solid solid; border-color: black black windowtext windowtext; height: 15.75pt; background-color: transparent;" colspan="6"><font face="Calibri">&nbsp;</font></td>
+ </tr>
+
+</tbody></table>]]></td>
+</tr>
+</table>

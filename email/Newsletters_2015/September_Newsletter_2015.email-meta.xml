@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>September Newsletter 2015</name>
+    <style>none</style>
+    <subject>White Industies Newsletter</subject>
+    <textOnly>*|MC:SUBJECT|*
+
+October 2015  | Issue 19
+
+View this email in your browser
+
+IN THIS ISSUE:
+
+Foundry Visits
+Cast Metal Products
+The White Industries Family
+Casting Costs around the World
+
+A Spring Welcome from White Industries
+
+Since our humble beginnings in 1960, White Industries has come be a leader in the metal castings industry in Australia, offering world-class component machining, custom fabrication and of course, casting in steel, iron, bronze and aluminium.
+
+We are proud of the work our in-house team at Dalby in south-east Queensland are doing, excelling in every aspect. The quality we deliver together is how White Industries have been in business for more than 55 years and our continued innovation will drive us over the next 55.
+
+An invitation to visit the White Industries Foundry in Dalby We would like to invite you to explore the foundry and see how your products come to life at this world-class facility!
+
+
+Thanks for visiting us Ray (QAL Quality Assurance Manager Ray Fisher with Craig White - Sales and Marketing Director - and Michael Shelford - Foundry Manager)
+
+Make an appointment today and take a first-hand look at the production lines, special treatment areas, and talk with our experienced team members to discover the potential value White Industries can bring to your business.
+
+Make an appointment today – contact Jim Stevenson on jim.stevenson@whiteindustries.com.au
+
+Cast Metal Products - The White Way
+
+
+
+Using a variety of advanced casting methods, we can match your requirements together with the most suited and economical production line. As one of Australia’s largest foundries, we can produce one-offs or repetitious runs, with the optimum equipment for your order.
+
+Depending on what you need, we might use the Jobbing area, Jolt Squeeze line or BMD Greensand Line, which is capable of producing up to 40 boxes an hour. This diversity of production gives our customers the best results.
+
+To enhance our production areas, we also have an in-house heat treatment facility, Pattern Shop and CNC Machine shop.
+
+Learn more about the wide variety of production possibilities of White Industries here.
+
+Cast Of The Month!
+
+Can you guess what this is?
+(answer in next issue)
+
+White Industries cast using a substantial range of ferrous and nonferrous metals including carbon steels, low and high alloy steels, duplex stainless steels, grey irons, alloyed irons, ductile (SG) irons, white irons, austenitic manganese steels, aluminium alloys, gunmetal alloys, brass alloys and bronze alloys.
+
+Our cast weights vary between 700kg in iron and 10,000kg in steel, 1000kg in brasses and bronzes as well as 325kg in aluminium alloys.
+
+The Whites Behind White Industries
+
+
+The White family: founder Bob White and his wife Yvonne centre with Samantha (Bruce’s Daughter), on the left Neil and Bruce, on the right Craig and his wife Donna.
+
+Every year in Australia, a conference is held to celebrate businesses owned and run by families, and this year it was held on the Gold Coast in September. 458 delegates from 60 family owned businesses attended, “This is the backbone of Australia and how it was built. It’s good to see all these families coming together to exchange ideas and encourage each other to keep their businesses evolving and improving” said Craig White. The oldest family represented were the Sadleirs, who began business activities in Perth in 1829.
+
+White Industries was started in 1960 by Bob White, and is now managed by second generation brothers Bruce, Craig and Neil.
+
+The World View
+Casting Costs
+
+There’s never been a better time to reap the benefits of Australian quality manufacturing, with high international costs, predicted to increase.
+
+Manufacturing conditions are well above where they stood last year, thanks to low interest rates and a sharp drop in the Australian dollar. Westpac senior economist Andrew Hanlan said a 25 per cent drop in the Australian dollar in the past two years and low interest rates have been a positive for business. &quot;The manufacturing sector is on the right side of both of these developments,&quot; Mr Hanlan said last week.
+
+The manufacturing sector in Australia has expanded for a second straight month as residential building activity and strong demand for food and beverages continues to benefit downstream manufacturing suppliers, a performance survey says.
+
+The Australian Industry Group performance of manufacturing index rose 1.3 points to 51.7 in August. &quot;A second month of expansion is encouraging for Australian manufacturing,&quot; AI Group Chief Executive, Innes Willox said.
+
+Contact White Industries today to speak with our sales team in Dalby, Queensland.
+
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|HTML:LIST_ADDRESS_HTML|* *|END:IF|*
+
+Want to change how you receive these emails?
+You can update your preferences or unsubscribe from this list
+
+*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*</textOnly>
+    <type>custom</type>
+</EmailTemplate>

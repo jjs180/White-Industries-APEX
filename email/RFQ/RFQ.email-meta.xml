@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <description>RFQ</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>White_Industries_Letterhead</letterhead>
+    <name>RFQ</name>
+    <style>freeForm</style>
+    <subject>RFQ</subject>
+    <textOnly>WHITE INDUSTRIES  Date:
+
+ESTIMATING CHECKLIST  Salesperson: Jim Stevenson
+RFQ Required By:
+Company Name (Capitals)
+Phone
+Fax
+Billing Address (Postal) (Capitals)
+Delivery Address (Capitals)
+Customer Contact - Not in Capitals
+Position
+Phone
+Fax
+Mobile
+Email address
+Size of the company (Number of Employees)
+How long have they been in business?
+How do they know about us?
+Potential to lead to more work?
+Other
+PRODUCT DETAILS
+Name (drawing number) (Capitals)
+Description (Capitals)
+Drawing available?  Yes     No
+Patterns available?  Yes     No
+Machine tooling available?  Yes     No
+Order qty
+Annual qty
+Metal/ material?
+Cast Nett Weight
+Do they have any problems with the design/part?  Yes     No
+Is it currently getting made?  Yes     No
+If so by whom
+Current price? (if applicable)
+Ball Park / Gut feel Price?
+Order Value / Annual Value
+Machining Required?  Yes     No
+Painted  Yes     No
+Feight -  FIS     FOT
+Testing / Certification   Yes     No
+What level of Cert
+Surface Finish requirments (greensand / Hardsand)
+Send quote direct to customer or back to sales person  Direct     Salesperson
+Other/ Notes:</textOnly>
+    <type>html</type>
+</EmailTemplate>

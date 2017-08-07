@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Christmas Newsletter 2015</name>
+    <style>none</style>
+    <subject>Merry Christmas from White Industries</subject>
+    <textOnly>White Industries Christmas Email
+
+Christmas 2015
+
+Call Us: 1300 825 980
+
+2016 IS ON ITS WAY!
+We hope that 2015 has been as productive for you and your colleagues as it has been here at the Foundry. We are always looking to improve our methods and in this last year we have been focused on the consolidation of our Lean Manufacturing processes. This has led to better quality castings and overall efficiency.
+
+The White Industries team will be taking their annual break and the Foundry will be closed from the December 23rd and reopening on January 19th.
+
+When we return, White Industries will be back to work with a new look website and we look forward to seeing some of you at the National Manufacturers Week in Sydney, in May.
+
+Myself and the White Industries team, would like to express our appreciation to all our existing customers for the strong relationships forged over time and to our new customers in casting long-lasting relationships into the future.
+
+We look forward to working with you in the coming year.
+
+Kind Regards,
+
+
+Bruce White
+Managing Director
+
+Copyright © 2015 White Industries, All rights reserved.
+As a valued client of White Industries, you&apos;re on our mailing list.
+
+Our mailing address is:
+PO Box 350
+Dalby QLD 4405
+
+Contact Us:
+Phone: 1300 825 980
+Email: info@whiteindustries.com.au</textOnly>
+    <type>custom</type>
+</EmailTemplate>

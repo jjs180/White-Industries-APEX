@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Christmas Thank You 2016</name>
+    <style>none</style>
+    <subject>Merry Christmas from White Industries</subject>
+    <textOnly>Merry Christmas
+
+Dear {!Contact.FirstName},
+
+On behalf of the entire team here at White Industries, we would like to wish you and your whole family a Merry Christmas and the greatest New Year ahead. May this season of festive bring you true happiness, success and prosperity!
+
+As the year draws to an end, it’s a time to reflect on what has been another challenging year for Australian manufacturing. Having said that, although I took on the running of White Industries all but a few months ago, I’m proud of our Team and the year’s achievements.
+
+By no means all, but those that stand out include:
+
+Accomplishing company KPI’s within our Lean Manufacturing Program
+Upgrade of our Heat Treatment Ovens and Water Quenching facilities
+
+We would like to express our sincere thanks for being our loyal customer and playing your role in the success of our company. It is just because of your support that our company is now one of the largest privately owned Foundry in Australia today. We will strive to continue to deliver you high quality castings with an emphasis on delivering them on time.
+
+Once again, Merry Christmas and have a great time with your loved ones!
+
+Kind regards
+Craig White
+CEO
+
+Copyright © 2016 White Industries, All rights reserved.
+As a valued client of White Industries, you&apos;re on our mailing list.
+
+Our mailing address is:
+PO Box 350
+Dalby QLD 4405
+
+Contact Us:
+Phone: 1300 825 980
+Email: info@whiteindustries.com.au</textOnly>
+    <type>custom</type>
+</EmailTemplate>

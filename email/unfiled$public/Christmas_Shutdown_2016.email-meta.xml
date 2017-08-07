@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Christmas Shutdown 2016</name>
+    <style>none</style>
+    <subject>White Industries Update: Christmas Shutdown 2016</subject>
+    <textOnly>Land Forces 2016 Invitation
+
+
+August 2016
+
+Call Us: 1300 825 980
+
+
+Christmas Shutdown
+
+Dear Customer
+
+Please be advised that White Industries will be closing for our annual Christmas Shutdown on Thursday 22nd December 2016.
+We will recommence production on Tuesday 17th January 2017.
+Dispatch of goods will not be possible during this period.
+
+As we generally have at least a 4 – 6 week lead time, it would be appreciated if all customers place their orders with this timetable in mind.
+Should you have any questions regarding this shutdown period please do not hesitate to contact us.
+
+Kind regards
+Craig White
+CEO
+
+Copyright © 2016 White Industries, All rights reserved.
+As a valued client of White Industries, you&apos;re on our mailing list.
+
+Our mailing address is:
+PO Box 350
+Dalby QLD 4405
+
+Contact Us:
+Phone: 1300 825 980
+Email: info@whiteindustries.com.au</textOnly>
+    <type>custom</type>
+</EmailTemplate>

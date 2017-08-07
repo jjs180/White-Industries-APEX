@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?><AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata"><assignmentRule>
+        <fullName>Assignment Based on Location</fullName>
+        <active>true</active>
+        <ruleEntry>
+            <assignedTo>jim.stevenson@whiteindustries.com.au</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Lead.State</field>
+                <operation>equals</operation>
+                <value>QLD,NT,WA</value>
+            </criteriaItems>
+        </ruleEntry>
+        <ruleEntry>
+            <assignedTo>craig.white@whiteindustries.com.au</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Lead.State</field>
+                <operation>equals</operation>
+                <value>NSW,TAS,SA,VIC,ACT</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule></AssignmentRules>

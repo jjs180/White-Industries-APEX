@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- Cost Per UOM --></label>
+        <name>Cost_Per_UOM__c</name>
+        <picklistValues>
+            <masterLabel>Each</masterLabel>
+            <translation><!-- Each --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Cost --></label>
+        <name>Cost__c</name>
+    </fields><fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields><fields>
+        <label><!-- Price Per UOM --></label>
+        <name>Price_Per_UOM__c</name>
+        <picklistValues>
+            <masterLabel>Each</masterLabel>
+            <translation><!-- Each --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Price --></label>
+        <name>Price__c</name>
+    </fields><fields>
+        <label><!-- Service Family --></label>
+        <name>Service_Family__c</name>
+        <picklistValues>
+            <masterLabel>Certification</masterLabel>
+            <translation><!-- Certification --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Synchro Index --></label>
+        <name>Synchro_Index__c</name>
+    </fields><fields>
+        <label><!-- Tax Code --></label>
+        <name>Tax_Code__c</name>
+        <picklistValues>
+            <masterLabel>GST</masterLabel>
+            <translation><!-- GST --></translation>
+        </picklistValues>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Service</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Services</value>
+    </caseValues><startsWith>Consonant</startsWith><layouts>
+        <layout>Service Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts></CustomObjectTranslation>

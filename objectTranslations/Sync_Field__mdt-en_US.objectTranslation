@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- SQL Field --></label>
+        <name>SQL_Field__c</name>
+    </fields><fields>
+        <label><!-- Salesforce Field --></label>
+        <name>Salesforce_Field__c</name>
+    </fields><fields>
+        <label><!-- Sync Table --></label>
+        <name>Sync_Table__c</name>
+        <relationshipLabel><!-- Sync Fields --></relationshipLabel>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Sync Field</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Sync Fields</value>
+    </caseValues><startsWith>Consonant</startsWith><layouts>
+        <layout>Sync Tables Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts></CustomObjectTranslation>

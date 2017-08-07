@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalPicklist xmlns="http://soap.sforce.com/2006/04/metadata">
+    <globalPicklistValues>
+        <fullName>FOT</fullName>
+        <default>true</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>FIS</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <masterLabel>Transport Options</masterLabel>
+    <sorted>false</sorted>
+</GlobalPicklist>

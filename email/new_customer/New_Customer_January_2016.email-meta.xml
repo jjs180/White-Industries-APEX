@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>New Customer January 2016</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Letterhead_January_2016</letterhead>
+    <name>New Customer January 2016</name>
+    <style>freeForm</style>
+    <subject>New Customer January 2016</subject>
+    <type>html</type>
+</EmailTemplate>

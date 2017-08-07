@@ -1,0 +1,24 @@
+<!--
+* ─────────────────────────────────────────────────────────────────────────────────────────────────
+* VF page that Syncs the Product Confguration with the Opportunity
+* ─────────────────────────────────────────────────────────────────────────────────────────────────
+* Initial implementation
+* @author		Lucian Ciobanu <lucian.ciobanu@deutoria.com>
+* @created		2017-02-08
+* ─────────────────────────────────────────────────────────────────────────────────────────────────
+* Changes
+*
+* ─────────────────────────────────────────────────────────────────────────────────────────────────
+-->
+<apex:page standardController="Product_Configuration__c" extensions="SyncOppExtension" action="{!Sync}" >
+  <apex:form >
+        <apex:pageBlock title="Sync with Opportunity">
+            <apex:pageBlockSection columns="1">
+                <apex:pageMessages />
+            </apex:pageBlockSection>
+            <apex:pageblockButtons >
+                <apex:commandButton value="Back" action="{!GoBack}" />
+            </apex:pageblockButtons>
+        </apex:pageBlock>
+    </apex:form>         
+</apex:page>

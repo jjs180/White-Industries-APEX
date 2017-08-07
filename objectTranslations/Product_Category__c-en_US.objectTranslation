@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- Archive --></label>
+        <name>Archive__c</name>
+    </fields><fields>
+        <label><!-- Category Code --></label>
+        <name>Category_Code__c</name>
+    </fields><fields>
+        <label><!-- Category Cost History Index --></label>
+        <name>Category_Cost_History_Index__c</name>
+    </fields><fields>
+        <label><!-- Cost Date --></label>
+        <name>Cost_Date__c</name>
+    </fields><fields>
+        <label><!-- Cost --></label>
+        <name>Cost__c</name>
+    </fields><fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields><fields>
+        <label><!-- Family --></label>
+        <name>Family__c</name>
+        <picklistValues>
+            <masterLabel>QUOTE</masterLabel>
+            <translation><!-- QUOTE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>z</masterLabel>
+            <translation><!-- z --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Notes --></label>
+        <name>Notes__c</name>
+    </fields><fields>
+        <label><!-- Range1 --></label>
+        <name>Range1__c</name>
+    </fields><fields>
+        <label><!-- Range2 --></label>
+        <name>Range2__c</name>
+    </fields><fields>
+        <label><!-- Range3 --></label>
+        <name>Range3__c</name>
+    </fields><fields>
+        <label><!-- Range4 --></label>
+        <name>Range4__c</name>
+    </fields><fields>
+        <label><!-- Range5 --></label>
+        <name>Range5__c</name>
+    </fields><fields>
+        <label><!-- Range6 --></label>
+        <name>Range6__c</name>
+    </fields><fields>
+        <label><!-- Rate1 --></label>
+        <name>Rate1__c</name>
+    </fields><fields>
+        <label><!-- Rate2 --></label>
+        <name>Rate2__c</name>
+    </fields><fields>
+        <label><!-- Rate3 --></label>
+        <name>Rate3__c</name>
+    </fields><fields>
+        <label><!-- Rate4 --></label>
+        <name>Rate4__c</name>
+    </fields><fields>
+        <label><!-- Rate5 --></label>
+        <name>Rate5__c</name>
+    </fields><fields>
+        <label><!-- Rate6 --></label>
+        <name>Rate6__c</name>
+    </fields><fields>
+        <label><!-- Spare2 --></label>
+        <name>Spare2__c</name>
+        <picklistValues>
+            <masterLabel>N</masterLabel>
+            <translation><!-- N --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NQT</masterLabel>
+            <translation><!-- NQT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NT</masterLabel>
+            <translation><!-- NT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>QT</masterLabel>
+            <translation><!-- QT --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Synchro Index --></label>
+        <name>Synchro_Index__c</name>
+    </fields><fields>
+        <label><!-- Weight UOM --></label>
+        <name>Weight_UOM__c</name>
+        <picklistValues>
+            <masterLabel>KG</masterLabel>
+            <translation><!-- KG --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Metre</masterLabel>
+            <translation><!-- Metre --></translation>
+        </picklistValues>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Product Category</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Product Categories</value>
+    </caseValues><startsWith>Consonant</startsWith></CustomObjectTranslation>

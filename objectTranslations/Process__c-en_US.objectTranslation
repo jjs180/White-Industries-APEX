@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- Cost Per UOM --></label>
+        <name>Cost_Per_UOM__c</name>
+        <picklistValues>
+            <masterLabel>HR</masterLabel>
+            <translation><!-- HR --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Cost Per --></label>
+        <name>Cost_Per__c</name>
+    </fields><fields>
+        <label><!-- Cost --></label>
+        <name>Cost__c</name>
+    </fields><fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields><fields>
+        <label><!-- Process Family --></label>
+        <name>Process_Family__c</name>
+        <picklistValues>
+            <masterLabel>Conformance</masterLabel>
+            <translation><!-- Conformance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Core</masterLabel>
+            <translation><!-- Core --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dispatch</masterLabel>
+            <translation><!-- Dispatch --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fettle</masterLabel>
+            <translation><!-- Fettle --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Heat Treatment</masterLabel>
+            <translation><!-- Heat Treatment --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M/C</masterLabel>
+            <translation><!-- M/C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M/C 1</masterLabel>
+            <translation><!-- M/C 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M/C 2</masterLabel>
+            <translation><!-- M/C 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M/C 3</masterLabel>
+            <translation><!-- M/C 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Melt</masterLabel>
+            <translation><!-- Melt --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mould</masterLabel>
+            <translation><!-- Mould --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>N/A</masterLabel>
+            <translation><!-- N/A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Non-Charging</masterLabel>
+            <translation><!-- Non-Charging --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Rate1 --></label>
+        <name>Rate1__c</name>
+    </fields><fields>
+        <label><!-- Rate Description --></label>
+        <name>Rate_Description__c</name>
+    </fields><fields>
+        <label><!-- Synchro Index --></label>
+        <name>Synchro_Index__c</name>
+    </fields><fields>
+        <label><!-- UOM1 --></label>
+        <name>UOM1__c</name>
+        <picklistValues>
+            <masterLabel>DAY (24HR)</masterLabel>
+            <translation><!-- DAY (24HR) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>HR</masterLabel>
+            <translation><!-- HR --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Usage Notes --></label>
+        <name>Usage_Notes__c</name>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Process</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Processes</value>
+    </caseValues><startsWith>Consonant</startsWith></CustomObjectTranslation>

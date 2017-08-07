@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- Actual Product Category Cost --></label>
+        <name>Actual_Product_Category_Cost__c</name>
+    </fields><fields>
+        <label><!-- Admin Charge --></label>
+        <name>Admin_Charge__c</name>
+    </fields><fields>
+        <label><!-- Annual Qty --></label>
+        <name>Annual_Qty__c</name>
+    </fields><fields>
+        <help><!-- Selling Price x Annual Qty --></help>
+        <label><!-- Annual Total --></label>
+        <name>Annual_Total__c</name>
+    </fields><fields>
+        <label><!-- CT Message --></label>
+        <name>CT_Message__c</name>
+    </fields><fields>
+        <help><!-- If the Opportunity Close date is in January or December, or if the close date + total production time is less than the number of weeks to December, the Christmas Delivery clause will be added. --></help>
+        <label><!-- Christmas Delivery --></label>
+        <name>Christmas_Delivery_Period__c</name>
+    </fields><fields>
+        <label><!-- Contact Email --></label>
+        <name>Contact_Email__c</name>
+    </fields><fields>
+        <label><!-- Contact Phone --></label>
+        <name>Contact_Phone__c</name>
+    </fields><fields>
+        <label><!-- Cost Per UOM --></label>
+        <name>Cost_Per_UOM__c</name>
+        <picklistValues>
+            <masterLabel>Each</masterLabel>
+            <translation><!-- Each --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Cost Per --></label>
+        <name>Cost_Per__c</name>
+    </fields><fields>
+        <label><!-- Cost --></label>
+        <name>Cost__c</name>
+    </fields><fields>
+        <label><!-- Credit Terms --></label>
+        <name>Credit_Terms__c</name>
+    </fields><fields>
+        <label><!-- Customer Contact --></label>
+        <name>Customer_Contact__c</name>
+        <relationshipLabel><!-- WI Quotes --></relationshipLabel>
+    </fields><fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields><fields>
+        <label><!-- Drawing Number --></label>
+        <name>Drawing_Number__c</name>
+    </fields><fields>
+        <label><!-- Drawing Rev --></label>
+        <name>Drawing_Rev__c</name>
+    </fields><fields>
+        <help><!-- Subtotal + Scrap Cost + Admin Cost / Order Qty --></help>
+        <label><!-- Factory Price --></label>
+        <name>Factory_Price__c</name>
+    </fields><fields>
+        <label><!-- Gross Weight (KG) --></label>
+        <name>Gross_Weight__c</name>
+    </fields><fields>
+        <label><!-- Margin --></label>
+        <name>Margin__c</name>
+    </fields><fields>
+        <label><!-- Mark as Template --></label>
+        <name>Mark_as_Template__c</name>
+    </fields><fields>
+        <label><!-- Net Weight (KG) --></label>
+        <name>Net_Wt__c</name>
+    </fields><fields>
+        <label><!-- Number Per Box --></label>
+        <name>No_Per_Box__c</name>
+    </fields><fields>
+        <label><!-- Opportunity --></label>
+        <name>Opportunity__c</name>
+        <relationshipLabel><!-- WI Quotes --></relationshipLabel>
+    </fields><fields>
+        <label><!-- Order Qty --></label>
+        <name>Order_Qty__c</name>
+    </fields><fields>
+        <help><!-- Selling Price x Order Qty --></help>
+        <label><!-- Order Total --></label>
+        <name>Order_Total__c</name>
+    </fields><fields>
+        <label><!-- Pat_Equip_Message --></label>
+        <name>Pat_Equip_Message__c</name>
+    </fields><fields>
+        <help><!-- Selects the text in the Pattern Equipment section of the terms and conditions on the quote. --></help>
+        <label><!-- Pattern Equipment --></label>
+        <name>Pattern_Equipment__c</name>
+        <picklistValues>
+            <masterLabel>Client to Supply</masterLabel>
+            <translation><!-- Client to Supply --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Pattern</masterLabel>
+            <translation><!-- New Pattern --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pattern Held</masterLabel>
+            <translation><!-- Pattern Held --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Pattern Weeks --></label>
+        <name>Pattern_Weeks__c</name>
+    </fields><fields>
+        <label><!-- Position --></label>
+        <name>Position__c</name>
+    </fields><fields>
+        <label><!-- Price Per UOM --></label>
+        <name>Price_Per_UOM__c</name>
+        <picklistValues>
+            <masterLabel>Each</masterLabel>
+            <translation><!-- Each --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Price Per --></label>
+        <name>Price_Per__c</name>
+    </fields><fields>
+        <label><!-- Selling Price --></label>
+        <name>Price__c</name>
+    </fields><fields>
+        <label><!-- Product Category Cost --></label>
+        <name>Product_Category_Cost__c</name>
+    </fields><fields>
+        <label><!-- Product Category --></label>
+        <name>Product_Category__c</name>
+        <relationshipLabel><!-- WI Quotes --></relationshipLabel>
+    </fields><fields>
+        <label><!-- Production Weeks --></label>
+        <name>Production_Weeks__c</name>
+    </fields><fields>
+        <label><!-- Quote Date --></label>
+        <name>Quote_Date__c</name>
+    </fields><fields>
+        <label><!-- Quote Number --></label>
+        <name>Quote_Number__c</name>
+    </fields><fields>
+        <label><!-- Reject Rate --></label>
+        <name>Reject_Rate__c</name>
+    </fields><fields>
+        <label><!-- Scope_Message --></label>
+        <name>Scope_Message__c</name>
+    </fields><fields>
+        <help><!-- This option sets the message in the Scope of Offer section of the terms and conditions on the quote. --></help>
+        <label><!-- Scope Of Offer --></label>
+        <name>Scope_Of_Offer__c</name>
+        <picklistValues>
+            <masterLabel>CNC Only</masterLabel>
+            <translation><!-- CNC Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Castings &amp; CNC</masterLabel>
+            <translation><!-- Castings &amp; CNC --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Castings Only</masterLabel>
+            <translation><!-- Castings Only --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fabricated Items</masterLabel>
+            <translation><!-- Fabricated Items --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Patterns, Trial &amp; Production Castings</masterLabel>
+            <translation><!-- Patterns, Trial &amp; Production Castings --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Patterns, Trial &amp; Production Castings, CNC</masterLabel>
+            <translation><!-- Patterns, Trial &amp; Production Castings, CNC --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Scrap Cost --></label>
+        <name>Scrap_Cost__c</name>
+    </fields><fields>
+        <label><!-- Subtotal --></label>
+        <name>Subtotal__c</name>
+    </fields><fields>
+        <label><!-- Synchro Index --></label>
+        <name>Synchro_Index__c</name>
+    </fields><fields>
+        <label><!-- Total Machine Fixture Cost --></label>
+        <name>Total_Machine_Fixture_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Materials Cost --></label>
+        <name>Total_Materials_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Pattern Cost --></label>
+        <name>Total_Pattern_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Process Cost --></label>
+        <name>Total_Process_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Product Category Cost --></label>
+        <name>Total_Product_Category_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Service Cost --></label>
+        <name>Total_Service_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Weeks --></label>
+        <name>Total_Weeks__c</name>
+    </fields><fields>
+        <label><!-- Transport --></label>
+        <name>Transport_Option__c</name>
+    </fields><fields>
+        <label><!-- Trial Weeks --></label>
+        <name>Trial_Weeks__c</name>
+    </fields><fields>
+        <label><!-- Yield --></label>
+        <name>Yield__c</name>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>WI Quote</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>WI Quotes</value>
+    </caseValues><startsWith>Consonant</startsWith><layouts>
+        <layout>Product Configuration Layout</layout>
+        <sections>
+            <label><!-- Additional Details --></label>
+            <section>Additional Details</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Customer Contact --></label>
+            <section>Customer Contact</section>
+        </sections>
+        <sections>
+            <label><!-- Terms and Conditions --></label>
+            <section>Terms and Conditions</section>
+        </sections>
+    </layouts><validationRules>
+        <errorMessage><!-- You cannot change both the Margin and Selling Price in one operation.  Change one or the other and the system will automatically calculate the other field value. --></errorMessage>
+        <name>Cannot_Change_Margin_and_Sell_Price</name>
+    </validationRules><webLinks>
+        <label><!-- Create_a_Quote --></label>
+        <name>Create_a_Quote</name>
+    </webLinks><webLinks>
+        <label><!-- Quote_PDF --></label>
+        <name>Quote_PDF</name>
+    </webLinks><webLinks>
+        <label><!-- Sync_With_Opportunity --></label>
+        <name>Sync_With_Opportunity</name>
+    </webLinks></CustomObjectTranslation>

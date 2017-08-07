@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata"><fields>
+        <label><!-- Fixtures/Jig Type --></label>
+        <name>Fixtures_Jig_Type__c</name>
+        <picklistValues>
+            <masterLabel>Chuck Jaws Large</masterLabel>
+            <translation><!-- Chuck Jaws Large --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chuck Jaws Small</masterLabel>
+            <translation><!-- Chuck Jaws Small --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Drill Jig</masterLabel>
+            <translation><!-- Drill Jig --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fab/MC Jaws</masterLabel>
+            <translation><!-- Fab/MC Jaws --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Grippers</masterLabel>
+            <translation><!-- Grippers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M/C Fixture</masterLabel>
+            <translation><!-- M/C Fixture --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Expenses</masterLabel>
+            <translation><!-- Other Expenses --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Robot Jaws</masterLabel>
+            <translation><!-- Robot Jaws --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Special Tool</masterLabel>
+            <translation><!-- Special Tool --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Turning Fixture</masterLabel>
+            <translation><!-- Turning Fixture --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Fixtures/Jigs Hours --></label>
+        <name>Fixtures_Jigs_Hours__c</name>
+    </fields><fields>
+        <label><!-- Fixtures/Jigs Material Cost --></label>
+        <name>Fixtures_Jigs_Material_Cost__c</name>
+    </fields><fields>
+        <label><!-- Fixtures/Jigs Material Desc --></label>
+        <name>Fixtures_Jigs_Material_Desc__c</name>
+        <picklistValues>
+            <masterLabel>Chuck Jaws Large</masterLabel>
+            <translation><!-- Chuck Jaws Large --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chuck Jaws Small</masterLabel>
+            <translation><!-- Chuck Jaws Small --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Drill Jig</masterLabel>
+            <translation><!-- Drill Jig --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fab/MC Jaws</masterLabel>
+            <translation><!-- Fab/MC Jaws --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Grippers</masterLabel>
+            <translation><!-- Grippers --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M/C Fixture</masterLabel>
+            <translation><!-- M/C Fixture --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other Expenses</masterLabel>
+            <translation><!-- Other Expenses --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Robot Jaws</masterLabel>
+            <translation><!-- Robot Jaws --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Special Tool</masterLabel>
+            <translation><!-- Special Tool --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Turning Fixture</masterLabel>
+            <translation><!-- Turning Fixture --></translation>
+        </picklistValues>
+    </fields><fields>
+        <label><!-- Hourly Rate --></label>
+        <name>Hourly_Rate__c</name>
+    </fields><fields>
+        <label><!-- Initial Programming Hours --></label>
+        <name>Initial_Programming_Hours__c</name>
+    </fields><fields>
+        <label><!-- Product Configuration --></label>
+        <name>Product_Configuration__c</name>
+        <relationshipLabel><!-- Machine Fixtures --></relationshipLabel>
+    </fields><fields>
+        <label><!-- Tools &amp; Cutters Cost --></label>
+        <name>Tools_Cutters_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Hours --></label>
+        <name>Total_Hours__c</name>
+    </fields><fields>
+        <label><!-- Total Labor Cost --></label>
+        <name>Total_Labor_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Machine Fixture Cost --></label>
+        <name>Total_Machine_Fixture_Cost__c</name>
+    </fields><fields>
+        <label><!-- Total Materials Cost --></label>
+        <name>Total_Materials_Cost__c</name>
+    </fields><caseValues>
+        <plural>false</plural>
+        <value>Machine Fixture</value>
+    </caseValues><caseValues>
+        <plural>true</plural>
+        <value>Machine Fixtures</value>
+    </caseValues><startsWith>Consonant</startsWith><layouts>
+        <layout>Machine Fixture Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Totals --></label>
+            <section>Totals</section>
+        </sections>
+    </layouts></CustomObjectTranslation>

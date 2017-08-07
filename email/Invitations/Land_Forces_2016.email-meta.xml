@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Land Forces 2016</name>
+    <style>none</style>
+    <subject>Invitation to Land Forces 2016</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+The Land Forces exhibition is on again at the Adelaide Convention Centre, from 5th September until 8th September. Presented in collaboration with the Australian Army, Land Forces 2016 is an international industry exposition to showcase equipment, technology and services for the armies of Australia, Asia and the Indo-Pacific. White Industries is one of the few foundry and machine shops attending the 464 exhibitor event.
+
+
+Australia&apos;s defence forces are embarking on a period of significant acquisition and modernisation with acquisition projects worth more than AUD$150 billion planned for the next decade. The Australian Army alone is planning to spend nearly AUD$30 billion on equipment, services and new combat capabilities.
+
+Other armies throughout the Indo-Pacific region are embarking upon similar upgrades, with many seeking to acquire or enhance a wide range of capabilities, including amphibious ships and watercraft, helicopters, armoured and utility vehicles, ISR, small arms and unmanned systems.
+
+
+We would love to take the opportunity to catch up face to face at the show. Make sure you wander by the stand number #AU13 or send me an email if you would like to lock-in a specific time.
+
+For further information on the show, you can find the Land Forces offical website here: https://www.landforces.com.au.
+
+We hope to see you there!
+
+Kind regards,
+
+Jim Stevenson
+Business Development Manager
+White Industries
+
+M: 0439145730
+P: 07 46725800
+E: Jim.Stevenson@whiteindustries.com.au
+
+Copyright © 2016 White Industries, All rights reserved.
+As a valued client of White Industries, you&apos;re on our mailing list.
+
+Our mailing address is:
+PO Box 350
+Dalby QLD 4405
+
+Contact Us:
+Phone: 1300 825 980
+Email: info@whiteindustries.com.au</textOnly>
+    <type>custom</type>
+</EmailTemplate>

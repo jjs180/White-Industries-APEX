@@ -1,0 +1,1364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html style="" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <!-- NAME: 1 COLUMN - BANDED -->
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>White Industries News - February 2017</title>
+    <style type="text/css">
+body,#bodyTable,#bodyCell{
+      height:100% !important;
+      margin:0;
+      padding:0;
+      width:100% !important;
+      }
+      table{
+      border-collapse:collapse;
+      }
+      img,a img{
+      border:0;
+      outline:none;
+      text-decoration:none;
+      }
+      h1,h2,h3,h4,h5,h6{
+      margin:0;
+      padding:0;
+      }
+      p{
+      margin:1em 0;
+      padding:0;
+      }
+      a{
+      word-wrap:break-word;
+      }
+      .ReadMsgBody{
+      width:100%;
+      }
+      .ExternalClass{
+      width:100%;
+      }
+      .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
+      line-height:100%;
+      }
+      table,td{
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+      }
+      #outlook a{
+      padding:0;
+      }
+      img{
+      -ms-interpolation-mode:bicubic;
+      }
+      body,table,td,p,a,li,blockquote{
+      -ms-text-size-adjust:100%;
+      -webkit-text-size-adjust:100%;
+      font-family: Arial, Helvetica, sans-serif;
+      }
+      #bodyCell{
+      padding:0;
+      }
+      .mcnImage{
+      vertical-align:bottom;
+      }
+      .mcnTextContent img{
+      height:auto !important;
+      }
+      /*
+      @tab Page
+      @section background style
+      @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+      */
+      body,#bodyTable{
+      /*@editable*/background-color:#f2f2f2;
+      }
+      /*
+      @tab Page
+      @section background style
+      @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+      */
+      #bodyCell{
+      /*@editable*/border-top:0;
+      }
+      /*
+      @tab Page
+      @section heading 1
+      @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+      @style heading 1
+      */
+      h1{
+      /*@editable*/color:#000000 !important;
+      display:block;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:30px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:100%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Page
+      @section heading 2
+      @tip Set the styling for all second-level headings in your emails.
+      @style heading 2
+      */
+      h2{
+      /*@editable*/color:#404040 !important;
+      display:block;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:26px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:-.75px;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Page
+      @section heading 3
+      @tip Set the styling for all third-level headings in your emails.
+      @style heading 3
+      */
+      h3{
+      /*@editable*/color:#b9b9b9 !important;
+      display:block;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:18px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Page
+      @section heading 4
+      @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+      @style heading 4
+      */
+      h4{
+      /*@editable*/color:#808080 !important;
+      display:block;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:16px;
+      /*@editable*/font-style:normal;
+      /*@editable*/font-weight:bold;
+      /*@editable*/line-height:125%;
+      /*@editable*/letter-spacing:normal;
+      margin:0;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Preheader
+      @section preheader style
+      @tip Set the background color and borders for your email's preheader area.
+      */
+      #templatePreheader{
+      /*@editable*/background-color:#404347;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+      }
+      /*
+      @tab Preheader
+      @section preheader text
+      @tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+      */
+      .preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent p{
+      /*@editable*/color:#ffffff;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:11px;
+      /*@editable*/line-height:125%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Preheader
+      @section preheader link
+      @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+      */
+      .preheaderContainer .mcnTextContent a{
+      /*@editable*/color:#eeeeee;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      /*
+      @tab Header
+      @section header style
+      @tip Set the background color and borders for your email's header area.
+      */
+      #templateHeader{
+      /*@editable*/background-color:#ffffff;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:3px solid #f2f2f2;
+      }
+      /*
+      @tab Header
+      @section header text
+      @tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+      */
+      .headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+      /*@editable*/color:#606060;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:15px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Header
+      @section header link
+      @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+      */
+      .headerContainer .mcnTextContent a{
+      /*@editable*/color:#6DC6DD;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      /*
+      @tab Body
+      @section body style
+      @tip Set the background color and borders for your email's body area.
+      */
+      #templateBody{
+      /*@editable*/background-color:#FFFFFF;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+      }
+      /*
+      @tab Body
+      @section body text
+      @tip Set the styling for your email's body text. Choose a size and color that is easy to read.
+      */
+      .bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+      /*@editable*/color:#444444;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:14px;
+      /*@editable*/line-height:150%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Body
+      @section body link
+      @tip Set the styling for your email's body links. Choose a color that helps them stand out from your text.
+      */
+      .bodyContainer .mcnTextContent a{
+      /*@editable*/color:#d93b23;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      /*
+      @tab Footer
+      @section footer style
+      @tip Set the background color and borders for your email's footer area.
+      */
+      #templateFooter{
+      /*@editable*/background-color:#404347;
+      /*@editable*/border-top:0;
+      /*@editable*/border-bottom:0;
+      }
+      /*
+      @tab Footer
+      @section footer text
+      @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+      */
+      .footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+      /*@editable*/color:#606060;
+      /*@editable*/font-family:Arial, Helvetica, sans-serif;
+      /*@editable*/font-size:11px;
+      /*@editable*/line-height:125%;
+      /*@editable*/text-align:left;
+      }
+      /*
+      @tab Footer
+      @section footer link
+      @tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+      */
+      .footerContainer .mcnTextContent a{
+      /*@editable*/color:#606060;
+      /*@editable*/font-weight:normal;
+      /*@editable*/text-decoration:underline;
+      }
+      @media only screen and (max-width: 480px){
+      body,table,td,p,a,li,blockquote{
+      -webkit-text-size-adjust:none !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      body{
+      width:100% !important;
+      min-width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnTextContentContainer]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      .mcnBoxedTextContentContainer{
+      max-width:100% !important;
+      min-width:100% !important;
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcpreview-image-uploader]{
+      width:100% !important;
+      display:none !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      img[class=mcnImage]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnImageGroupContentContainer]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageGroupContent]{
+      padding:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageGroupBlockInner]{
+      padding-bottom:0 !important;
+      padding-top:0 !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      tbody[class=mcnImageGroupBlockOuter]{
+      padding-bottom:9px !important;
+      padding-top:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnCaptionTopContent],table[class=mcnCaptionBottomContent]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnCaptionLeftTextContentContainer],table[class=mcnCaptionRightTextContentContainer],table[class=mcnCaptionLeftImageContentContainer],table[class=mcnCaptionRightImageContentContainer],table[class=mcnImageCardLeftTextContentContainer],table[class=mcnImageCardRightTextContentContainer]{
+      width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardLeftImageContent],td[class=mcnImageCardRightImageContent]{
+      padding-right:18px !important;
+      padding-left:18px !important;
+      padding-bottom:0 !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardBottomImageContent]{
+      padding-bottom:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardTopImageContent]{
+      padding-top:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardLeftImageContent],td[class=mcnImageCardRightImageContent]{
+      padding-right:18px !important;
+      padding-left:18px !important;
+      padding-bottom:0 !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardBottomImageContent]{
+      padding-bottom:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnImageCardTopImageContent]{
+      padding-top:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      table[class=mcnCaptionLeftContentOuter] td[class=mcnTextContent],table[class=mcnCaptionRightContentOuter] td[class=mcnTextContent]{
+      padding-top:9px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnCaptionBlockInner] table[class=mcnCaptionTopContent]:last-child td[class=mcnTextContent]{
+      padding-top:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnBoxedTextContentColumn]{
+      padding-left:18px !important;
+      padding-right:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=mcnTextContent]{
+      padding-right:18px !important;
+      padding-left:18px !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section template width
+      @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.
+      */
+      table[class=templateContainer]{
+      /*@tab Mobile Styles
+      @section template width
+      @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.*/max-width:600px !important;
+      /*@editable*/width:100% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 1
+      @tip Make the first-level headings larger in size for better readability on small screens.
+      */
+      h1{
+      /*@editable*/font-size:24px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 2
+      @tip Make the second-level headings larger in size for better readability on small screens.
+      */
+      h2{
+      /*@editable*/font-size:20px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 3
+      @tip Make the third-level headings larger in size for better readability on small screens.
+      */
+      h3{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section heading 4
+      @tip Make the fourth-level headings larger in size for better readability on small screens.
+      */
+      h4{
+      /*@editable*/font-size:16px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Boxed Text
+      @tip Make the boxed text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+      */
+      table[class=mcnBoxedTextContentContainer] td[class=mcnTextContent],td[class=mcnBoxedTextContentContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Preheader Visibility
+      @tip Set the visibility of the email's preheader on small screens. You can hide it to save space.
+      */
+      table[id=templatePreheader]{
+      /*@editable*/display:block !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Preheader Text
+      @tip Make the preheader text larger in size for better readability on small screens.
+      */
+      td[class=preheaderContainer] td[class=mcnTextContent],td[class=preheaderContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:14px !important;
+      /*@editable*/line-height:115% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Header Text
+      @tip Make the header text larger in size for better readability on small screens.
+      */
+      td[class=headerContainer] td[class=mcnTextContent],td[class=headerContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section Body Text
+      @tip Make the body text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+      */
+      td[class=bodyContainer] td[class=mcnTextContent],td[class=bodyContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:18px !important;
+      /*@editable*/line-height:125% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      /*
+      @tab Mobile Styles
+      @section footer text
+      @tip Make the body content text larger in size for better readability on small screens.
+      */
+      td[class=footerContainer] td[class=mcnTextContent],td[class=footerContainer] td[class=mcnTextContent] p{
+      /*@editable*/font-size:14px !important;
+      /*@editable*/line-height:115% !important;
+      }
+      
+      }  @media only screen and (max-width: 480px){
+      td[class=footerContainer] a[class=utilityLink]{
+      display:block !important;
+      }
+      
+      }    </style>
+  </head>
+  <body leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+    <center>
+      <p>&nbsp;
+        </p>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" id="bodyTable" width="100%">
+        <tbody>
+          <tr>
+            <td align="center" id="bodyCell" valign="top">
+              <!-- BEGIN TEMPLATE // -->
+              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN PREHEADER // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="preheaderContainer" style="padding-top:9px;" valign="top">
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" width="366">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-left:18px; padding-bottom:9px; padding-right:0;" valign="top">
+                                                      <strong>February 2017</strong></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                              <table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" width="197">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:4px; padding-right:18px; padding-bottom:9px; padding-left:18px;" valign="top">
+                                                      <div>
+                                                        <h3 style="color: #ffffff; text-align: right;">
+                                                          <font color="white">1300 825 980</font></h3>
+                                                      </div>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- // END PREHEADER --></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN HEADER // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templateHeader" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="headerContainer" style="padding-top:10px; padding-bottom:10px;" valign="top">
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnImageBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnImageBlockOuter">
+                                          <tr>
+                                            <td class="mcnImageBlockInner" style="padding:0px" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnImageContent" style="padding-right: 0px; padding-left: 0px; padding-top: 0; padding-bottom: 0; text-align:center;" valign="top">
+                                                      <img align="middle" alt="" class="mcnImage" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/newsletter-header.jpg" style="max-width:600px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" width="600" /></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnCodeBlock" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <div style="margin-top:10px;">
+                                                <a href="http://whiteindustries.com.au/request-a-quote/" style="line-height: 20.8px;" target="_blank"><img align="right" alt="Request A Quote Link" height="30" src="https://gallery.mailchimp.com/dc30be044ef6259e67321678a/images/c63bf951-f8f1-4590-8a02-b22bde23016e.gif" style="opacity: 0.9; width: 145px; height: 30px; margin: 0px;" width="145" /></a><a href="http://whiteindustries.com.au/contact-us/" target="_blank"><img align="right" alt="Contact Us Link" height="30" src="https://gallery.mailchimp.com/dc30be044ef6259e67321678a/images/8540ef5a-13a4-4a3f-a7a3-29ebd8215f14.gif" style="width: 120px; height: 30px; margin: 0px;" width="120" /></a></div>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnCodeBlock" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="middle">
+                                              <h3 style="display:block; min-height:35px; padding: 10px 10px 5px 10px; border-top: 2px solid #404347; border-bottom: 2px solid #d93b22; color:#ffffff !important; background:#404347;">
+                                                &nbsp;&nbsp;<span style="color:#ffffff; padding: 15px 0 0 0;">IN THIS ISSUE</span></h3>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <ul>
+                                                        <li>
+                                                          <a href="#article-1" style="color:#d93b23;" target="_self">Fire Audit - Keeping your investment safe</a></li>
+                                                        <li>
+                                                          <a href="#article-2" style="color:#d93b23;" target="_self">Forum &amp; Knowledge Evening - Australian Foundry Institute</a></li>
+                                                        <li>
+                                                          <a href="#article-3" style="color:#d93b23;" target="_self">Trade Futures Award - Supporting our Community</a></li>
+                                                        <li>
+                                                          <a href="#article-4" style="color:#d93b23;" target="_self">New Foundry Investment: Heat Treatment Ovens</a></li>
+                                                        <li>
+                                                          <a href="#article-5" style="color:#d93b23;" target="_self">Design Launch: 30 ton Grain Buggy</a></li>
+                                                        <li>
+                                                          <a href="#article-7" style="color:#d93b23;" target="_self">Australian Business News</a></li>
+                                                        <li>
+                                                          <a href="#article-8" style="color:#d93b23;" target="_self">The Evolution of Metal Casting Part IV</a></li>
+                                                      </ul>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- // END HEADER --></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN BODY // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templateBody" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="bodyContainer" style="padding-top:10px; padding-bottom:10px;" valign="top">
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-1" name="article-1"></a><span class="s1"><strong>Fire Audit - Keeping your investment safe</strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                        <tbody>
+                                          <tr>
+                                            <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                              <p>
+                                                We hold hundreds of thousands of customers' dollars in patterns on-site. As part of the ongoing and proactive process of risk minimisation, White Industries partner with the Dalby Fire Brigade to perform an on-site familiarisation and audit, ensuring smooth operation in the unlikely event of an emergency situation.</p>
+                                              Captain Peter Mauch, along with 20 fire personel and three trucks, spent two hours at the foundry performing fire drills using their own water supply and the in-ground fire hydrant, testing for accessibility, flow and pressure.
+                                              <p style="padding-right: 10px;">
+                                                Jason Manteit our Machine Shop Manager showed them through the machine shop, including where they can and can’t spray water, access doorways and isolation points for electricity. Locations were also noted for the chemical storage sheds outside and the two large pattern storage sheds running adjacent to the Machine Shop.</p>
+                                              <p style="padding-right: 10px;">
+                                                Mick Shelford our Foundry Manager took them through the Pattern Shop and Foundry showing the power supply termination points, transformer locations/isolators, mains gas inlets/isolators and general layout of each area and their respected fire hazards. The main plant/equipment and energy inputs were noted in each of these areas.</p>
+                                              <p style="padding-right: 10px;">
+                                                This is a great example of White Industries' commitment to service and to provide you, its valued clients with piece of mind that your patern investments are safe and that your supply line is risk adverse.</p>
+                                              <p style="text-align: center;">
+                                                <img src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/8642458c1afc37cd917cd1d34a4ebd0d/image/jpeg" /></p>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                      </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                              <!--            
+                                              <td class="mcnDividerBlockInner" style="padding: 18px;">
+                                              <hr class="mcnDividerContent" style="border-bottom-color:none; border-left-color:none; border-right-color:none; border-bottom-width:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" />
+                                              --></td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-2" name="article-2"></a>Forum Evening -&nbsp;<strong>Australian Foundry Institute</strong></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <p>
+                                                        Late last year, White Industries hosted the Queensland Division of the Australian Foundry Institute (AFI). The institute is made up of foundries, foundry supply companies and foundry personnel, with the aim to share knowledge, promote personnel training and to provide an industry forum.</p>
+                                                      <p>
+                                                        The Institute meets regularly, to provide personnel with the latest innovations in foundary equipment and techniques.</p>
+                                                      <p>
+                                                        The evening included a plant tour of the White Industries modern foundry, fabrication and machining facilities and a presentation by White Industries’ Adrian Lambert, the QLD AFI Moulding Achiever of the Year. Adrian shared his key learning points and experiences with the forum and provided an overview of his experience at the recent AFI national convention in Melbourne.</p>
+                                                      <p>
+                                                        White Industries is proud to be a member of the AFI, with Bob, Bruce and Craig White having served as committee members and office holders over the years.</p>
+                                                      <p>
+                                                        Check out <a href="http://www.australianfoundryinstitute.com.au/">http://www.australianfoundryinstitute.com.au/</a> for more information on the AFI</p>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                      </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                             </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-3" name="article-3"></a><span class="s1"><strong><span style="padding-right: 10px;">Trade Futures Award</span>- Supporting Our Community</strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <p style="padding-right: 10px;">
+                                                        Dalby State High School had its annual award night in November, with White Industries sponsoring the Trade Futures award for the fifth consecutive year.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        Craig White, our CEO, was on hand to present the award to the hard working and well deserved winner, Ryan Spencer.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        The Trade Futures program sees local industry mentors "adopt" students as they engage in regular on-site work. The program allows students to take their skills and apply them in real world situations and market their abilites to potential employers on a first hand basis.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        White Industries is the major sponsor of the trade training centre at the school.</p>
+                                                    </td>
+                                                    <td style="width: 200px; margin: 0px 15px 15px 0px;">
+                                                      <img alt="Adriant Lambert at AFI 2016" height="304" src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/9cb04b6d373d2d36a0664330e349c65b/image/jpeg?token=a94ff86c9e2397e4cb30ea38f14f07c7&amp;" style="width: 200px; height: 304px; margin: 0px;" width="200" /></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                      </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                             </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-4" name="article-4"></a><span class="s1"><strong>New Foundry Investment: Heat Treatment Ovens</strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <p>
+                                                        Over the last two and half months we have been busy commissioning two new high temperature, bogie drive, heat treatment ovens.</p>
+                                                      <p>
+                                                        These new ovens increase our capacity by 45%, raising the heat treatment facility production capacities inline with the other sections of the foundry.</p>
+                                                      <ul>
+                                                        <li>
+                                                          Up to 40% gas efficiency with pulse firing burners</li>
+                                                        <li>
+                                                          PLC controls with electronic graph recording</li>
+                                                        <li>
+                                                          SCADA interface enabling communication with plant wide monitoring systems.</li>
+                                                      </ul>
+                                                      <p style="line-height: 21px;">
+                                                        <strong>Oven Specifications</strong>:</p>
+                                                      <ul>
+                                                        <li style="line-height: 21px;">
+                                                          Length: 4000mm x Width: 1600mm x Height: 1300mm (Internal Dimensions) up to 1100C</li>
+                                                        <li style="line-height: 21px;">
+                                                          Length: 2100mm x Width: 1600mm x Height: 1300mm (Internal Dimensions) up to 750C</li>
+                                                      </ul>
+                                                      <p>&nbsp;
+                                                        </p>
+                                                    </td>
+                                                    <td style="width: 200px; margin: 0px 15px 15px 0px;">
+                                                      <img alt="Adriant Lambert at AFI 2016" height="188" src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/8036ba782b968043bad416f30e1b078a/image/jpeg?token=a94ff86c9e2397e4cb30ea38f14f07c7&amp;" style="width: 200px; height: 155px; margin: 0px;" width="200" /><br />
+                                                      <br />
+                                                      <img alt="White Industries' Directors" height="216" src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/5ae404c74a6fb364943739b5f01d9428/image/jpeg?token=a94ff86c9e2397e4cb30ea38f14f07c7&amp;" style="width: 200px; height: 155px; margin: 0px;" width="200" /></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                      </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                             </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a name="article-5"></a><span class="s1"><strong>Design Launch: New 30 ton Grain Buggy</strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <p>
+                                                        White Industries have been designing and producing innovative grain buggies for the agricultural market since the early 70’s. Our latest offering sees the familiar functionality, but a dramatic change in design and capacity.</p>
+                                                      <p>
+                                                        Early bin designs were limited to approximately 100 bags or eight tons on a single axle. We can now offer 30 ton bins, on a special design rocking beam with dual axle. This new design allows for 40 degrees of osculation, or in layman’s terms 700mm of travel.</p>
+                                                      <p>
+                                                        The other radical change decends from the automotive industry, with bolting sections of the bin together instead of welding. This innovation allows us to be the only Australian manufacturer to powder coat their bins instead of painting them. The automotive industry has been using this method since the turn of the century and has stood the test of time.</p>
+                                                      <p>
+                                                        Other key features are:</p>
+                                                      <ul>
+                                                        <li>
+                                                          No rams or hydraulics oils inside the bin</li>
+                                                        <li>
+                                                          Large sight glasses front and rear of the bin</li>
+                                                        <li>
+                                                          Oversize door on rear of bin for easy access</li>
+                                                        <li>
+                                                          18 inch&nbsp;augers with 19 inch diameter barrel</li>
+                                                        <li>
+                                                          Emptying time of 12 ½ ton per minute</li>
+                                                      </ul>
+                                                      <p>
+                                                        Field Trials of the new bin were carried out during the last wheat harvest in northern NSW with great success. The farm testing the bin was so impressed with it's performance, they have decided to purchase it. We have another two bins currently in production for the upcoming harvest.</p>
+                                                      <p>
+                                                        If you are interested in one or would like to know more about them give Neil White a call on Ph 1300 825 980 or mob 0427 623 376 or email <a href="mailto:neil.white@whiteindustries.com.au?subject=30t%20Grain%20Buggy%20Enquiry">neil.white@whiteindustries.com.au</a>.</p>
+                                                      <p style="text-align: center;">
+                                                        <img src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/9dc4d6d09057d06573f40e493d5a9f70/image/jpeg" /></p>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                      </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                             </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <!--<h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                      <a id="article-6" name="article-6"></a><span class="s1"><strong>Join our team</strong></span></h2>
+                                                    </td>
+                                                    </tr>
+                                                    </tbody>
+                                                    </table>
+                                                    </td>
+                                                    </tr>
+                                                    </tbody>
+                                                    </table>
+                                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                                      <tbody class="mcnTextBlockOuter">
+                                                      <tr>
+                                                      <td class="mcnTextBlockInner" valign="top">
+                                                      <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                      <tbody>
+                                                      <tr>
+                                                      <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="border: 4px solid #d93b23; padding: 10px 27px; background: #ffffff; min-width:100%;" width="100%">
+                                                      <tbody>
+                                                      <tr>
+                                                      <td class="mcnTextContent" style="padding-left: 27px; padding-right: 27px">
+                                                      <table>
+                                                      <tbody>
+                                                      <tr>
+                                                      <td>
+                                                      <p>
+                                                      Our modern factory requires new team members to work in our family-owned and operated business, as an Apprentice Moulder in our Foundry and an Apprentice Fitter &amp; Turner in our Machineshop. White Industries has a proud history in the Dalby business community for training tradespeople with well-rounded skills. We have been training apprentices for 56 years.</p>
+                                                    </td>
+                                                      <td>
+                                                      <img alt="White Industries logo" height="118" src="http://whiteindustries.com.au/cms/wp-content/mail-outs/logo.jpg" style="width:118px; height:118px; margin: 0px; float: right;" width="118" /></td>
+                                                    </tr>
+                                                    </tbody>
+                                                    </table>
+                                                      <p>
+                                                      <strong>2 x Apprentice Moulders</strong> will work in our Foundry, using modern equipment to manufacture moulds that produce castings.<br />
+                                                      <strong>1 x Apprentice Fitter &amp; Turner</strong> will work in our Machineshop, using modern equipment to machine raw castings into finished items.</p>
+                                                      <p>
+                                                      <span style="font-size:17px;"><span style="color: rgb(217, 59, 35);"><strong>KEY REQUIREMENTS:</strong></span></span></p>
+                                                      <p>
+                                                      • Junior certificate or greater. • Mechanically-minded<br />
+                                                      • Have completed a manufacturing or engineering subject at school<br />
+                                                      Commencement date will be late January 2017<br />
+                                                      If you are unsure as to what these apprenticeships entail feel free to call and arrange a site visit ASAP</p>
+                                                    </td>
+                                                    </tr>
+                                                    </tbody>
+                                                    </table>
+                                                      <table bgcolor="#d93b23" height="85" style="background: rgb(217, 59, 35) none repeat scroll 0% 0%; color: rgb(255, 255, 255); min-width:100%;" width="100%">
+                                                      <tbody>
+                                                      <tr>
+                                                      <td bgcolor="#d93b23" class="mcnTextContent" style="background: #d93b23; color: #ffffff; padding: 10px 10px 10px 10px">
+                                                      Please present your resume by 30/11/16 (including junior or senior certificate) to:<br />
+                                                      White Industries, 18130 Warrego Hwy, Dalby • Ph 4672 5800<br />
+                                                      <a href="http://whiteindustries.com.au/careers-and-apprenticeships/"><span style="color:#ffffff;"><strong>Or click here to apply online today.</strong></span></a></td>
+                                                    </tr>
+                                                    </tbody>
+                                                    </table> --></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td bgcolor="#ffffff" style="margin:0px; padding:0px background: #ffffff;" width="10px">&nbsp;
+                                                      </td>
+                                                    <td bgcolor="#efca00;" style="background: #efca00; margin:0px; padding:0" width="15px">
+                                                      &nbsp;&nbsp;</td>
+                                                    <td bgcolor="#444" class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px; background:#444; margin: 0;" valign="top">
+                                                      <h2 class="null" style="background:#444;">
+                                                        <a id="article-7" name="article-7" style="background:#444;"></a><span style="color:#efca00; background:#444;">Autralian Business News</span><br />
+                                                        <span style="color:#fff; font-size:16px; font-weight:200; background:#444;">INDUSTRY HEADLINES</span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:15px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h3 class="null">
+                                                        Queensland government gas pilot program shows the way</h3>
+                                                      <p style="padding-right: 10px;">
+                                                        The Queensland government’s gas pilot program provides good template for how gas could be developed on Australia’s eastern seaboard, according to Manufacturing Australia.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        The program provides a piece of land in the Surat Basin for gas extraction solely by domestic companies and manufacturers.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        If gas intensive manufacturing is to continue in Australia we need more gas, more gas suppliers and the right policies in place to ensure new gas development actually benefits local businesses,</p>
+                                                      <p style="padding-right: 10px;">
+                                                        “Queensland has lots of gas. We should be able to have the best of both worlds: gas for manufacturing and gas for export,” he said.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        In recent years, manufacturers have often failed to secure long-term gas contracts because of the country’s focus on maximising export- revenue from cheap LNG exports.</p>
+                                                    </td>
+                                                    <td style="margin: 0px 15px 15px 15px;">
+                                                      <p style="padding-right: 10px;">
+                                                        <img align="right" alt="Why Dalby is the centre of the universe" height="150" src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/5586b68ecf28801515dbf26a118ebf26/image/jpeg?token=a94ff86c9e2397e4cb30ea38f14f07c7&amp;" style="width: 200px; height: 150px;" width="200" /></p>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                     <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 1px;border-top-style: solid;border-top-color: #999999;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                      </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                             </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                                      <h3 class="null">
+                                                        Australian manufacturing experiencing jobs growth</h3>
+                                                      <p style="padding-right: 10px;">
+                                                        The Australian manufacturing sector is experiencing new jobs growth according to The Australian Manufacturing Growth Centre (AMGC).</p>
+                                                      <p style="padding-right: 10px;">
+                                                        Manufacturing is also now growing. It employs 902,000 people, up from 859,500 in February 2016. Manufacturing now represents 7.6 per cent of the Australian workforce.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        The recovery in the employment numbers shows a strong sentiment to Australian manufacturing. This is also evidenced by the increase in the Performance of Manufacturing Index by 1.2 points to 55.4 from February 2017 to December 2016. The Index is an Ai Group seasonally adjusted national composite index based on the diffusion indices for production, new orders, deliveries, inventories and employment with varying weights.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        Advanced Manufacturing Growth Centre managing director Dr Jens Goennemann said that there are a lot of reasons to be positive about Australian manufacturing.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        “There’s a lot to cheer about and our manufacturing strength should be one of those Aussie successes we raise a glass to and toast,” Goennemann said.</p>
+                                                      <p style="padding-right: 10px;">
+                                                        The AMGC has released its Growth Competitiveness Plan, which shows that manufacturing has the potential to add $36 billion to the economy over the next ten years.</p>
+                                                    </td>
+                                                    <td>
+                                                      <img align="right" alt="Ford Developing Fully Autonomous Vehicles by 2021" height="150" src="https://staticapp.icpsc.com/icp/loadimage.php/mogile/1602035/d8bd75bc3fab97e0b44988773b90ca3d/image/jpeg?token=a94ff86c9e2397e4cb30ea38f14f07c7&amp;" style="width: 200px; height: 150px;" width="200" /></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnDividerBlockOuter">
+                                          <tr>
+                                            <td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+                                              <table border="0" cellpadding="0" cellspacing="0" class="mcnDividerContent" style="min-width: 100%;border-top-width: 2px;border-top-style: solid;border-top-color: #EAEAEA;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>&nbsp;
+                                                      </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                              <!--            
+                                              <td class="mcnDividerBlockInner" style="padding: 18px;">
+                                              <hr class="mcnDividerContent" style="border-bottom-color:none; border-left-color:none; border-right-color:none; border-bottom-width:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" />
+                                              --></td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;" valign="top">
+                                                      <h2 style="border-left:15px solid #d93b23; padding:5px 0 5px 10px;">
+                                                        <a id="article-8" name="article-8"></a><span class="s1"><strong>The Evolution of Metal Casting Part IV</strong></span></h2>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%; font-family: arial" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="10" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td style="padding-right: 10px">
+                                                      <strong>1947</strong></td>
+                                                    <td>
+                                                      The Shell Process, invented by J. Croning of Germany during WWII, is discovered by U.S. officials and made public.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td>
+                                                      <strong>1948</strong></td>
+                                                    <td>
+                                                      Development of ductile iron, a cast iron with a fully spheroidal graphite structure.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td>
+                                                      <strong>1949</strong></td>
+                                                    <td>
+                                                      U.S. patent granted to K.D. Millis, A.P. Gagnebin and N.B. Pilling of International Nickel Company for developing ductile iron.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td>
+                                                      <strong>1953</strong></td>
+                                                    <td>
+                                                      The Hotbox system of making and curing cores in one operation is developed, eliminating the need for dielectric drying ovens.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td>
+                                                      <strong>1958</strong></td>
+                                                    <td>
+                                                      H.F. Shroyer is granted a patent for the full mould process, the forerunner of the expendable pattern (lost foam) casting process.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td>
+                                                      <strong>1960s</strong></td>
+                                                    <td>
+                                                      Compactibility and methylene blue clay tests are developed for green sand control. Also developed at this time are high-pressure moulding processes and fast-setting no bake binders for sand.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td>
+                                                      <strong>1964</strong></td>
+                                                    <td>
+                                                      The first disamatic moulding machine is introduced.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td>
+                                                      <strong>1965</strong></td>
+                                                    <td>
+                                                      The Scanning Electron Microscope is invented by the Cambridge University Engineering Department in England.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td>
+                                                      <strong>1965</strong></td>
+                                                    <td>
+                                                      Cast metal matrix composites are first poured at International Nickel Company in Sterling Forest, NY, by Pradeep Rohatgi.</td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td>
+                                                      <strong>1968</strong></td>
+                                                    <td>
+                                                      The Cold Box Process is introduced by L. Toriello and J. Robins for high production core.</td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- // END BODY --></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN FOOTER // -->
+                      <table border="0" cellpadding="0" cellspacing="0" id="templateFooter" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top">
+                              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="600">
+                                <tbody>
+                                  <tr>
+                                    <td class="footerContainer" style="padding-top:10px; padding-bottom:10px;" valign="top">
+                                      <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                        <tbody class="mcnTextBlockOuter">
+                                          <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                              <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="min-width:100%;" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="mcnTextContent" style="padding: 9px 18px;color: #AAAAAA;" valign="top">
+                                                      <div style="text-align: center;">
+                                                        <em>Copyright © 2017 White Industries, All rights reserved.</em></div>
+                                                      <div style="text-align: center;">
+                                                        As a valued client of White Industries, you're on our mailing list.<br />
+                                                        <br />
+                                                        <strong>Our mailing address is:</strong><br />
+                                                        PO Box 350<br />
+                                                        Dalby QLD 4405<br />
+                                                        <br />
+                                                        <strong>Contact Us:</strong><br />
+                                                        Phone: 1300 825 980<br />
+                                                        Email: <a href="mailto:info@whiteindustries.com.au" target="_blank"><span style="color:#ffffff;">info@whiteindustries.com.au</span></a></div>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- // END FOOTER --></td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- // END TEMPLATE --></td>
+          </tr>
+        </tbody>
+      </table>
+    </center>
+    <p>&nbsp;
+      </p>
+  </body>
+</html>
